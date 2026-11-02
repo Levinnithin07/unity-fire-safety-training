@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_diff_1k.jpg",
+    "path": "C:\\Users\\levin\\Desktop\\ARVR GPT\\FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\leafy_grass\\leafy_grass_diff_1k.jpg",
+    "sha256": "cfa40bc9d9417d1852db8753a8d5917f110c40101179f63543c382e39bc05e4a",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/png/1k/leafy_grass/leafy_grass_nor_gl_1k.png",
+    "path": "C:\\Users\\levin\\Desktop\\ARVR GPT\\FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\leafy_grass\\leafy_grass_nor_gl_1k.png",
+    "sha256": "7cba8d8a3cbd14663fd974b73ecebcbb42e0cc258d912867e9dd67a5582ca4d9",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/leafy_grass/leafy_grass_rough_1k.jpg",
+    "path": "C:\\Users\\levin\\Desktop\\ARVR GPT\\FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\leafy_grass\\leafy_grass_rough_1k.jpg",
+    "sha256": "0c2a1d91aacb8e54a496051b59854e51e456fe858abeade778e308359ef16463",
+    "license": "CC0"
+  }
+]

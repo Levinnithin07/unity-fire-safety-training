@@ -1,0 +1,14 @@
+[
+  {
+    "lod": 0,
+    "totalTriangles": 246377,
+    "leafIslands": 3782,
+    "method": "Original leaf UVs and geometry retained; sampled islands enlarged around their centers"
+  },
+  {
+    "lod": 1,
+    "totalTriangles": 110753,
+    "leafIslands": 1513,
+    "method": "Original leaf UVs and geometry retained; sampled islands enlarged around their centers"
+  }
+]

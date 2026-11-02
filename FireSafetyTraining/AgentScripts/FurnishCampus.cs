@@ -1,0 +1,37 @@
+using System;using System.Linq;using System.Collections.Generic;using UnityEngine;using UnityEngine.Rendering;using UnityEngine.AI;using Unity.AI.Navigation;using UnityEditor;using UnityEditor.SceneManagement;using TMPro;
+public static class FurnishCampus {
+ const string R="Assets/_FireSafety/CampusExterior/";
+ static Bounds B(GameObject g){var rs=g.GetComponentsInChildren<Renderer>();var b=rs[0].bounds;foreach(var r in rs)b.Encapsulate(r.bounds);return b;}
+ static Material Mat(string n,Color c,float smooth,float metal){var m=new Material(Shader.Find("Universal Render Pipeline/Lit")){name=n};m.SetColor("_BaseColor",c);m.SetFloat("_Smoothness",smooth);m.SetFloat("_Metallic",metal);m.enableInstancing=true;AssetDatabase.CreateAsset(m,R+"Materials/"+n+".mat");return m;}
+ static void Label(Transform parent,string text,Vector3 p,float yaw,Vector2 size,float fontSize,Color c){var t=new GameObject(text,typeof(TextMeshPro)).GetComponent<TextMeshPro>();t.transform.SetParent(parent,false);t.transform.localPosition=p;t.transform.localRotation=Quaternion.Euler(0,yaw,0);t.font=AssetDatabase.LoadAssetAtPath<TMP_FontAsset>("Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset");t.text=text;t.fontSize=fontSize;t.fontStyle=FontStyles.Bold;t.color=c;t.rectTransform.sizeDelta=size;t.alignment=TextAlignmentOptions.Center;t.textWrappingMode=TextWrappingModes.NoWrap;}
+ static GameObject Box(Transform parent,string name,Vector3 p,Vector3 size,Material mat,bool collision=true){var g=GameObject.CreatePrimitive(PrimitiveType.Cube);g.name=name;g.transform.SetParent(parent,false);g.transform.position=p;g.transform.localScale=size;g.GetComponent<Renderer>().sharedMaterial=mat;if(!collision)UnityEngine.Object.DestroyImmediate(g.GetComponent<Collider>());GameObjectUtility.SetStaticEditorFlags(g,StaticEditorFlags.BatchingStatic);return g;}
+ public static object Run(){if(EditorApplication.isPlaying||GameObject.Find("Campus school buses"))throw new Exception("New furnishing in Edit Mode required");var root=GameObject.Find("Campus exterior upgrade").transform;
+  var source=AssetDatabase.LoadAssetAtPath<GameObject>("Assets/ThirdParty/CampusExterior/Bus/BUS.fbx");var bus=new GameObject("Campus school bus - CC0 ajanhallinta");var visual=UnityEngine.Object.Instantiate(source,bus.transform);visual.name="Coach model";var bounds=B(visual);visual.transform.localScale*=10.5f/bounds.size.x;bounds=B(visual);visual.transform.position-=new Vector3(bounds.center.x,bounds.min.y,bounds.center.z);
+  var mats=new Dictionary<string,Material>();foreach(var r in visual.GetComponentsInChildren<Renderer>()){r.sharedMaterials=r.sharedMaterials.Select(m=>{if(mats.TryGetValue(m.name,out var existing))return existing;Color c;float gloss=.35f,met=0;
+   switch(m.name){case "Body":c=new Color(1,.64f,.025f);gloss=.5f;met=.2f;break;case "Windows":c=new Color(.08f,.14f,.18f);gloss=.93f;met=.6f;break;case "Metal":c=new Color(.54f,.57f,.59f);met=.9f;gloss=.7f;break;case "FrontLights":c=new Color(.91f,.86f,.7f);gloss=.8f;break;case "Indicators":c=new Color(1,.26f,.02f);break;case "RearLights":c=new Color(.65f,.025f,.015f);break;default:c=new Color(.045f,.05f,.055f);break;}var material=Mat("Bus "+m.name,c,gloss,met);mats[m.name]=material;return material;}).ToArray();GameObjectUtility.SetStaticEditorFlags(r.gameObject,StaticEditorFlags.BatchingStatic|StaticEditorFlags.OccludeeStatic);}
+  bounds=B(visual);var bc=bus.AddComponent<BoxCollider>();bc.center=bounds.center;bc.size=new Vector3(bounds.size.x-.1f,bounds.size.y-.08f,bounds.size.z-.08f);
+  Label(bus.transform,"SCHOOL BUS",new Vector3(-5.26f,2.4f,0),90,new Vector2(1.7f,.28f),2.1f,new Color(1,.75f,.08f));
+  foreach(float side in new[]{-1f,1f})Label(bus.transform,"SATHYABAMA UNIVERSITY",new Vector3(0,1.08f,side*(bounds.size.z*.5f+.008f)),side>0?180:0,new Vector2(6.8f,.32f),2.2f,new Color(.05f,.08f,.1f));
+  var lod=bus.AddComponent<LODGroup>();lod.SetLODs(new[]{new LOD(.025f,bus.GetComponentsInChildren<Renderer>())});lod.RecalculateBounds();var prefab=PrefabUtility.SaveAsPrefabAsset(bus,R+"Prefabs/Campus school bus.prefab");UnityEngine.Object.DestroyImmediate(bus);
+  var parking=new GameObject("Campus school buses").transform;parking.SetParent(root,false);foreach(float z in new[]{-20.7f,-16.3f}){var instance=(GameObject)PrefabUtility.InstantiatePrefab(prefab,parking);instance.transform.position=new Vector3(26.6f,.05f,z);}
+  var details=new GameObject("Campus planting and corridor furniture").transform;details.SetParent(root,false);
+  var planter=Mat("Campus terracotta ceramic",new Color(.51f,.25f,.13f),.3f,0);var cream=AssetDatabase.LoadAssetAtPath<Material>(R+"Materials/Campus warm ivory plaster.mat");
+  var shrub=AssetDatabase.LoadAssetAtPath<GameObject>("Assets/_FireSafety/SchoolExpansion/Prefabs/shrub_01.asset");
+  string[] shrubPaths=AssetDatabase.FindAssets("t:Prefab",new[]{"Assets/_FireSafety/SchoolExpansion/Prefabs"}).Select(AssetDatabase.GUIDToAssetPath).ToArray();
+  shrub=AssetDatabase.LoadAssetAtPath<GameObject>(shrubPaths.First(p=>p.Contains("shrub")));
+  foreach(float z in new[]{-19f,-10f,9.6f,18.6f}){
+   Box(details,"Raised planted border",new Vector3(8.2f,.2f,z),new Vector3(1.1f,.4f,3),cream);
+   Box(details,"Planter soil",new Vector3(8.2f,.415f,z),new Vector3(.94f,.035f,2.85f),AssetDatabase.LoadAssetAtPath<Material>("Assets/_FireSafety/SchoolExpansion/Materials/Garden soil.mat"),false);
+   foreach(float dz in new[]{-.9f,0f,.9f}){var g=(GameObject)PrefabUtility.InstantiatePrefab(shrub,details);g.name="Facade shrub";g.transform.position=new Vector3(8.2f,.43f,z+dz);g.transform.localScale=Vector3.one*.65f;}
+  }
+  var bench=GameObject.Find("Phase 5 - evacuation and assembly/Outdoor assembly courtyard/Courtyard slatted bench");
+  foreach(float z in new[]{-17.1f,17.1f}){var copy=UnityEngine.Object.Instantiate(bench,details,true);copy.name="Corridor bench - outside doorway clearance";copy.transform.position=new Vector3(3.8f,0,z);copy.transform.rotation=Quaternion.Euler(0,90,0);}
+  // Refinish corridor wall surfaces without changing interior classroom materials.
+  var rooms=new List<Transform>{GameObject.Find("Classroom - licensed source art").transform};rooms.AddRange(GameObject.Find("School expansion").transform.Cast<Transform>().Where(t=>t.name.EndsWith(" - environment only")));
+  foreach(var room in rooms){var renderer=room.Find("Hallway/Walls").GetComponent<Renderer>();renderer.sharedMaterials=renderer.sharedMaterials.Select(m=>cream).ToArray();PrefabUtility.RecordPrefabInstancePropertyModifications(renderer);}
+  // Preserve the original assembly coordinates and height; include only ground-level navigation.
+  var surface=UnityEngine.Object.FindAnyObjectByType<NavMeshSurface>();surface.center=new Vector3(14,1.35f,-.2f);surface.size=new Vector3(42,3.1f,49);Physics.SyncTransforms();surface.BuildNavMesh();
+  var generated=surface.navMeshData;var saved=AssetDatabase.LoadAssetAtPath<NavMeshData>("Assets/_FireSafety/SchoolExpansion/Navigation/SchoolNavMesh.asset");EditorUtility.CopySerialized(generated,saved);surface.RemoveData();surface.navMeshData=saved;surface.AddData();UnityEngine.Object.DestroyImmediate(generated);EditorUtility.SetDirty(saved);
+  EditorSceneManager.MarkSceneDirty(EditorSceneManager.GetActiveScene());EditorSceneManager.SaveScene(EditorSceneManager.GetActiveScene());AssetDatabase.SaveAssets();return new{buses=2,busLength=10.5f,newFacadeShrubs=12,navTriangles=NavMesh.CalculateTriangulation().indices.Length/3};
+ }
+}

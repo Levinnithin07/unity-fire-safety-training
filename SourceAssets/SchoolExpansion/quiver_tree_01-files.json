@@ -1,0 +1,1634 @@
+{
+  "trunk_rough": {
+    "8k": {
+      "jpg": {
+        "size": 19472192,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_trunk_rough_8k.jpg",
+        "md5": "d12a009a28193484b356ce8067e3bb5b"
+      },
+      "png": {
+        "size": 27019272,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_trunk_rough_8k.png",
+        "md5": "2b1f83e53afdaccad62efc867c1acfd0"
+      },
+      "exr": {
+        "size": 19689667,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/quiver_tree_01/quiver_tree_01_trunk_rough_8k.exr",
+        "md5": "8dba7e139b78128d3db6c16870281f9b"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 6078615,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_trunk_rough_4k.jpg",
+        "md5": "8fa4919316e8dd5832e81dc52e77a5a6"
+      },
+      "png": {
+        "size": 15535199,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_trunk_rough_4k.png",
+        "md5": "bbad18e9d706c0219d6768de7bd0fe5a"
+      },
+      "exr": {
+        "size": 6190512,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/quiver_tree_01/quiver_tree_01_trunk_rough_4k.exr",
+        "md5": "d1b3e48233afaa50e7c7d17c789c9c9d"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1611621,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_trunk_rough_2k.jpg",
+        "md5": "44d5a15397d6a0172632639bbe019fad"
+      },
+      "png": {
+        "size": 5429575,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_trunk_rough_2k.png",
+        "md5": "20c983c396cc137348190a8b04ecac45"
+      },
+      "exr": {
+        "size": 1685168,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/quiver_tree_01/quiver_tree_01_trunk_rough_2k.exr",
+        "md5": "81e05a90aa1871db7a082b563d48e812"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 407072,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_trunk_rough_1k.jpg",
+        "md5": "8e01872894825a19046b1fb4ba04821f"
+      },
+      "png": {
+        "size": 1547547,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_rough_1k.png",
+        "md5": "7c617dd99ef9db35fc277cea99dbeb72"
+      },
+      "exr": {
+        "size": 438431,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/quiver_tree_01/quiver_tree_01_trunk_rough_1k.exr",
+        "md5": "1f38be1a8450efb6e76d4dc0d01f3073"
+      }
+    }
+  },
+  "leaf_nor_gl": {
+    "8k": {
+      "jpg": {
+        "size": 44381227,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_8k.jpg",
+        "md5": "38f8c4fed9a6df816f8c3d3ecc46f92f"
+      },
+      "png": {
+        "size": 235192223,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_8k.png",
+        "md5": "c51aaa7af64f4df8aa3415e89cf9aec3"
+      },
+      "exr": {
+        "size": 88999950,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_8k.exr",
+        "md5": "491e49e1fb34d186c068c6d30c262ed9"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 13383254,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_4k.jpg",
+        "md5": "5a207ccceb4f12a357611c316c27f505"
+      },
+      "png": {
+        "size": 68110090,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_4k.png",
+        "md5": "cba2accd7cfb999a29f31aea2fbc2246"
+      },
+      "exr": {
+        "size": 28641143,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_4k.exr",
+        "md5": "492dd418c70d575541ad4930d0270623"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 3559481,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_2k.jpg",
+        "md5": "48fa639eca1995608bd822c3d5102c61"
+      },
+      "png": {
+        "size": 19069974,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_2k.png",
+        "md5": "a34a4f83d21cd07d8c0cf4f1cfdd0aa8"
+      },
+      "exr": {
+        "size": 7830567,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_2k.exr",
+        "md5": "8b495c8913c5f534b0847c94c77f230c"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 898833,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_1k.jpg",
+        "md5": "f954c80f430b126b7126fad32f381bb9"
+      },
+      "png": {
+        "size": 5241285,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_1k.png",
+        "md5": "17c0aa19e0d2fc01fbac8f396106eeca"
+      },
+      "exr": {
+        "size": 2019760,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_1k.exr",
+        "md5": "862b508414ce58044d725d98e3baa1a4"
+      }
+    }
+  },
+  "blend": {
+    "8k": {
+      "blend": {
+        "include": {
+          "textures/quiver_tree_01_leaf_rough_8k.png": {
+            "size": 24873895,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_leaf_rough_8k.png",
+            "md5": "3b63ae77a509005a5f3b50a2d33020c0"
+          },
+          "textures/quiver_tree_01_trunk_rough_8k.png": {
+            "size": 27019272,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_trunk_rough_8k.png",
+            "md5": "2b1f83e53afdaccad62efc867c1acfd0"
+          },
+          "textures/quiver_tree_01_trunk_diff_8k.png": {
+            "size": 240995666,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_trunk_diff_8k.png",
+            "md5": "59c6931b2339f8977b16fe25febcc23d"
+          },
+          "textures/quiver_tree_01_trunk_nor_gl_8k.png": {
+            "size": 283421950,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_8k.png",
+            "md5": "eb3e0410d2da1a1e9f7112af86526ee1"
+          },
+          "textures/quiver_tree_01_leaf_diff_8k.png": {
+            "size": 161150701,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_leaf_diff_8k.png",
+            "md5": "be23bfb311ddd998cad309f5c2d4ef14"
+          },
+          "textures/quiver_tree_01_leaf_nor_gl_8k.png": {
+            "size": 235192223,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_8k.png",
+            "md5": "c51aaa7af64f4df8aa3415e89cf9aec3"
+          }
+        },
+        "size": 8191816,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/quiver_tree_01/quiver_tree_01_8k.blend",
+        "md5": "c52c17202849653852f493cb7058331b"
+      }
+    },
+    "4k": {
+      "blend": {
+        "include": {
+          "textures/quiver_tree_01_trunk_nor_gl_4k.png": {
+            "size": 74739837,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_4k.png",
+            "md5": "e26705690e9caefba4848e805ae9bc6f"
+          },
+          "textures/quiver_tree_01_leaf_nor_gl_4k.png": {
+            "size": 68110090,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_4k.png",
+            "md5": "cba2accd7cfb999a29f31aea2fbc2246"
+          },
+          "textures/quiver_tree_01_leaf_diff_4k.png": {
+            "size": 61956705,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_leaf_diff_4k.png",
+            "md5": "64b9b5d02fc826b30ded8056fdd0e12e"
+          },
+          "textures/quiver_tree_01_trunk_diff_4k.png": {
+            "size": 68386424,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_trunk_diff_4k.png",
+            "md5": "fe95a2bacdb1a52f1636c09fcff8197f"
+          },
+          "textures/quiver_tree_01_leaf_rough_4k.png": {
+            "size": 16021785,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_leaf_rough_4k.png",
+            "md5": "7f6209f86c8293946391261d776510e6"
+          },
+          "textures/quiver_tree_01_trunk_rough_4k.png": {
+            "size": 15535199,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_trunk_rough_4k.png",
+            "md5": "bbad18e9d706c0219d6768de7bd0fe5a"
+          }
+        },
+        "size": 8192073,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/quiver_tree_01/quiver_tree_01_4k.blend",
+        "md5": "f47f08ffff7d1454f202a91e9a84ca17"
+      }
+    },
+    "2k": {
+      "blend": {
+        "include": {
+          "textures/quiver_tree_01_leaf_diff_2k.png": {
+            "size": 18000206,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_leaf_diff_2k.png",
+            "md5": "9c7e4193cf4357398464eb50f713a68e"
+          },
+          "textures/quiver_tree_01_leaf_rough_2k.png": {
+            "size": 5824381,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_leaf_rough_2k.png",
+            "md5": "578b21809d05443c51bcf319bc8f4995"
+          },
+          "textures/quiver_tree_01_trunk_diff_2k.png": {
+            "size": 18585833,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_trunk_diff_2k.png",
+            "md5": "ac1e6b5e2d96331e54e051cadd24b454"
+          },
+          "textures/quiver_tree_01_leaf_nor_gl_2k.png": {
+            "size": 19069974,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_2k.png",
+            "md5": "a34a4f83d21cd07d8c0cf4f1cfdd0aa8"
+          },
+          "textures/quiver_tree_01_trunk_rough_2k.png": {
+            "size": 5429575,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_trunk_rough_2k.png",
+            "md5": "20c983c396cc137348190a8b04ecac45"
+          },
+          "textures/quiver_tree_01_trunk_nor_gl_2k.png": {
+            "size": 19753063,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_2k.png",
+            "md5": "347dd344c7baa7ac923407984fbed2c8"
+          }
+        },
+        "size": 8191816,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/quiver_tree_01/quiver_tree_01_2k.blend",
+        "md5": "67d122dc88b87c6d2461b66c56a20768"
+      }
+    },
+    "1k": {
+      "blend": {
+        "include": {
+          "textures/quiver_tree_01_trunk_nor_gl_1k.png": {
+            "size": 5132583,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_1k.png",
+            "md5": "6fb55a04eecf168c77925f8541e2531a"
+          },
+          "textures/quiver_tree_01_leaf_diff_1k.png": {
+            "size": 5040209,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_diff_1k.png",
+            "md5": "faa9bf6a7452366575ad3878111ac486"
+          },
+          "textures/quiver_tree_01_leaf_rough_1k.png": {
+            "size": 1705008,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_rough_1k.png",
+            "md5": "32969d7d0358264f4e112123671c86a3"
+          },
+          "textures/quiver_tree_01_trunk_diff_1k.png": {
+            "size": 4940265,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_diff_1k.png",
+            "md5": "90ae8213acbefe4ac067c4d28050117e"
+          },
+          "textures/quiver_tree_01_leaf_nor_gl_1k.png": {
+            "size": 5241285,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_1k.png",
+            "md5": "17c0aa19e0d2fc01fbac8f396106eeca"
+          },
+          "textures/quiver_tree_01_trunk_rough_1k.png": {
+            "size": 1547547,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_rough_1k.png",
+            "md5": "7c617dd99ef9db35fc277cea99dbeb72"
+          }
+        },
+        "size": 8192010,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/quiver_tree_01/quiver_tree_01_1k.blend",
+        "md5": "650b7f9027c6b720a19e927a4ae73734"
+      }
+    }
+  },
+  "trunk_diff": {
+    "8k": {
+      "jpg": {
+        "size": 33182703,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_trunk_diff_8k.jpg",
+        "md5": "db7e7b2aeda6b4382e019be57991aa67"
+      },
+      "png": {
+        "size": 240995666,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_trunk_diff_8k.png",
+        "md5": "59c6931b2339f8977b16fe25febcc23d"
+      },
+      "exr": {
+        "size": 51004810,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/quiver_tree_01/quiver_tree_01_trunk_diff_8k.exr",
+        "md5": "c47826d289e7aaa08b637fd09fd32910"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 9829115,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_trunk_diff_4k.jpg",
+        "md5": "b8406d4c236620e81b7b6faed33bfc0d"
+      },
+      "png": {
+        "size": 68386424,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_trunk_diff_4k.png",
+        "md5": "fe95a2bacdb1a52f1636c09fcff8197f"
+      },
+      "exr": {
+        "size": 15503391,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/quiver_tree_01/quiver_tree_01_trunk_diff_4k.exr",
+        "md5": "92cc5535cfbdc88815ef657442866eed"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 2734373,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_trunk_diff_2k.jpg",
+        "md5": "7b2eb7c29995b9bef8dec86ab36d85fa"
+      },
+      "png": {
+        "size": 18585833,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_trunk_diff_2k.png",
+        "md5": "ac1e6b5e2d96331e54e051cadd24b454"
+      },
+      "exr": {
+        "size": 4487142,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/quiver_tree_01/quiver_tree_01_trunk_diff_2k.exr",
+        "md5": "263d3430542716a9dc97f4ab7d9caa08"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 741115,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_trunk_diff_1k.jpg",
+        "md5": "d112fb7af9fb2921d7e5ade4e84f5586"
+      },
+      "png": {
+        "size": 4940265,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_diff_1k.png",
+        "md5": "90ae8213acbefe4ac067c4d28050117e"
+      },
+      "exr": {
+        "size": 1271748,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/quiver_tree_01/quiver_tree_01_trunk_diff_1k.exr",
+        "md5": "80ef923ee929f1830a6a84012fab13c4"
+      }
+    }
+  },
+  "gltf": {
+    "8k": {
+      "gltf": {
+        "include": {
+          "textures/quiver_tree_01_trunk_nor_gl_8k.jpg": {
+            "size": 70841871,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_8k.jpg",
+            "md5": "3c713d327ebf2fe24ad1e9653a37fac4"
+          },
+          "textures/quiver_tree_01_leaf_arm_8k.jpg": {
+            "size": 30411231,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_leaf_arm_8k.jpg",
+            "md5": "210d7307d3df978d5b3e9bab24bd4d6b"
+          },
+          "textures/quiver_tree_01_leaf_nor_gl_8k.jpg": {
+            "size": 44381227,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_8k.jpg",
+            "md5": "38f8c4fed9a6df816f8c3d3ecc46f92f"
+          },
+          "textures/quiver_tree_01_leaf_diff_8k.jpg": {
+            "size": 24680061,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_leaf_diff_8k.jpg",
+            "md5": "50a2e48d456f3e50592954d8fb69fd9d"
+          },
+          "textures/quiver_tree_01_trunk_arm_8k.jpg": {
+            "size": 24196550,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_trunk_arm_8k.jpg",
+            "md5": "02eaaa2ce4c05ab4bb5afa2d20954c1c"
+          },
+          "quiver_tree_01.bin": {
+            "size": 4413204,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/quiver_tree_01/quiver_tree_01.bin",
+            "md5": "4d02b6a0e57a20fbaee31c6b7820b0f2"
+          },
+          "textures/quiver_tree_01_trunk_diff_8k.jpg": {
+            "size": 33182703,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_trunk_diff_8k.jpg",
+            "md5": "db7e7b2aeda6b4382e019be57991aa67"
+          }
+        },
+        "size": 5080,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/quiver_tree_01/quiver_tree_01_8k.gltf",
+        "md5": "f70d2f746a13837dd9adddc3f3031df1"
+      }
+    },
+    "4k": {
+      "gltf": {
+        "include": {
+          "textures/quiver_tree_01_trunk_arm_4k.jpg": {
+            "size": 7036057,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_trunk_arm_4k.jpg",
+            "md5": "75e60b1bb394a75b52e4567ba506b68b"
+          },
+          "textures/quiver_tree_01_leaf_arm_4k.jpg": {
+            "size": 9197490,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_leaf_arm_4k.jpg",
+            "md5": "2e556c0af7a81a0d4f6f3c0f4cbb845a"
+          },
+          "textures/quiver_tree_01_trunk_nor_gl_4k.jpg": {
+            "size": 17433648,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_4k.jpg",
+            "md5": "eb35d0a72a3d907db50bf8bd800b5076"
+          },
+          "textures/quiver_tree_01_leaf_nor_gl_4k.jpg": {
+            "size": 13383254,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_4k.jpg",
+            "md5": "5a207ccceb4f12a357611c316c27f505"
+          },
+          "textures/quiver_tree_01_leaf_diff_4k.jpg": {
+            "size": 7738414,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_leaf_diff_4k.jpg",
+            "md5": "363441d57c90215afa0a0c72e1a35c2b"
+          },
+          "quiver_tree_01.bin": {
+            "size": 4413204,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/quiver_tree_01/quiver_tree_01.bin",
+            "md5": "4d02b6a0e57a20fbaee31c6b7820b0f2"
+          },
+          "textures/quiver_tree_01_trunk_diff_4k.jpg": {
+            "size": 9829115,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_trunk_diff_4k.jpg",
+            "md5": "b8406d4c236620e81b7b6faed33bfc0d"
+          }
+        },
+        "size": 5080,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/quiver_tree_01/quiver_tree_01_4k.gltf",
+        "md5": "30ffe2ec1a65653f7aca5533068f2680"
+      }
+    },
+    "2k": {
+      "gltf": {
+        "include": {
+          "textures/quiver_tree_01_trunk_diff_2k.jpg": {
+            "size": 2734373,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_trunk_diff_2k.jpg",
+            "md5": "7b2eb7c29995b9bef8dec86ab36d85fa"
+          },
+          "textures/quiver_tree_01_leaf_nor_gl_2k.jpg": {
+            "size": 3559481,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_2k.jpg",
+            "md5": "48fa639eca1995608bd822c3d5102c61"
+          },
+          "textures/quiver_tree_01_trunk_arm_2k.jpg": {
+            "size": 1871432,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_trunk_arm_2k.jpg",
+            "md5": "741bf10e3c5a3a19574f19ee9f19b324"
+          },
+          "textures/quiver_tree_01_trunk_nor_gl_2k.jpg": {
+            "size": 4045445,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_2k.jpg",
+            "md5": "54bca1f06abfad95f385ee32e6dc2b5d"
+          },
+          "textures/quiver_tree_01_leaf_diff_2k.jpg": {
+            "size": 2276970,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_leaf_diff_2k.jpg",
+            "md5": "6b390fedf7aae696f0f68ce606232a5f"
+          },
+          "quiver_tree_01.bin": {
+            "size": 4413204,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/quiver_tree_01/quiver_tree_01.bin",
+            "md5": "4d02b6a0e57a20fbaee31c6b7820b0f2"
+          },
+          "textures/quiver_tree_01_leaf_arm_2k.jpg": {
+            "size": 2654551,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_leaf_arm_2k.jpg",
+            "md5": "5ab84c81760cd2c526a4833ffeab6a3e"
+          }
+        },
+        "size": 5080,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/quiver_tree_01/quiver_tree_01_2k.gltf",
+        "md5": "e52d346140a73feeac75b1fd1e08f237"
+      }
+    },
+    "1k": {
+      "gltf": {
+        "include": {
+          "textures/quiver_tree_01_trunk_arm_1k.jpg": {
+            "size": 492139,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_trunk_arm_1k.jpg",
+            "md5": "b7b46a8529e62e706b9a0e3417af1309"
+          },
+          "textures/quiver_tree_01_trunk_diff_1k.jpg": {
+            "size": 741115,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_trunk_diff_1k.jpg",
+            "md5": "d112fb7af9fb2921d7e5ade4e84f5586"
+          },
+          "textures/quiver_tree_01_leaf_nor_gl_1k.jpg": {
+            "size": 898833,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_1k.jpg",
+            "md5": "f954c80f430b126b7126fad32f381bb9"
+          },
+          "textures/quiver_tree_01_trunk_nor_gl_1k.jpg": {
+            "size": 940495,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_1k.jpg",
+            "md5": "b592c0f7abdefab0c9e2f354b9274683"
+          },
+          "textures/quiver_tree_01_leaf_arm_1k.jpg": {
+            "size": 737159,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_leaf_arm_1k.jpg",
+            "md5": "23212753d3e3464d7d74702ed6a1d178"
+          },
+          "quiver_tree_01.bin": {
+            "size": 4413204,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/quiver_tree_01/quiver_tree_01.bin",
+            "md5": "4d02b6a0e57a20fbaee31c6b7820b0f2"
+          },
+          "textures/quiver_tree_01_leaf_diff_1k.jpg": {
+            "size": 652456,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_leaf_diff_1k.jpg",
+            "md5": "ac7692d306b779c530177c14ddbba622"
+          }
+        },
+        "size": 5080,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/quiver_tree_01/quiver_tree_01_1k.gltf",
+        "md5": "0899227b1eeee2f8cbaf2e4693fc7ded"
+      }
+    }
+  },
+  "usd": {
+    "8k": {
+      "usd": {
+        "include": {
+          "textures/quiver_tree_01_leaf_rough_8k.png": {
+            "size": 24873895,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_leaf_rough_8k.png",
+            "md5": "3b63ae77a509005a5f3b50a2d33020c0"
+          },
+          "textures/quiver_tree_01_trunk_rough_8k.png": {
+            "size": 27019272,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_trunk_rough_8k.png",
+            "md5": "2b1f83e53afdaccad62efc867c1acfd0"
+          },
+          "textures/quiver_tree_01_trunk_diff_8k.png": {
+            "size": 240995666,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_trunk_diff_8k.png",
+            "md5": "59c6931b2339f8977b16fe25febcc23d"
+          },
+          "textures/quiver_tree_01_trunk_nor_gl_8k.png": {
+            "size": 283421950,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_8k.png",
+            "md5": "eb3e0410d2da1a1e9f7112af86526ee1"
+          },
+          "textures/quiver_tree_01_leaf_diff_8k.png": {
+            "size": 161150701,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_leaf_diff_8k.png",
+            "md5": "be23bfb311ddd998cad309f5c2d4ef14"
+          },
+          "textures/quiver_tree_01_leaf_nor_gl_8k.png": {
+            "size": 235192223,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_8k.png",
+            "md5": "c51aaa7af64f4df8aa3415e89cf9aec3"
+          }
+        },
+        "size": 9471353,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/quiver_tree_01/quiver_tree_01_8k.usdc",
+        "md5": "1e1b6698e665e77a9bc23dbc48e4a980"
+      }
+    },
+    "4k": {
+      "usd": {
+        "include": {
+          "textures/quiver_tree_01_trunk_nor_gl_4k.png": {
+            "size": 74739837,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_4k.png",
+            "md5": "e26705690e9caefba4848e805ae9bc6f"
+          },
+          "textures/quiver_tree_01_leaf_nor_gl_4k.png": {
+            "size": 68110090,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_4k.png",
+            "md5": "cba2accd7cfb999a29f31aea2fbc2246"
+          },
+          "textures/quiver_tree_01_leaf_diff_4k.png": {
+            "size": 61956705,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_leaf_diff_4k.png",
+            "md5": "64b9b5d02fc826b30ded8056fdd0e12e"
+          },
+          "textures/quiver_tree_01_trunk_diff_4k.png": {
+            "size": 68386424,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_trunk_diff_4k.png",
+            "md5": "fe95a2bacdb1a52f1636c09fcff8197f"
+          },
+          "textures/quiver_tree_01_leaf_rough_4k.png": {
+            "size": 16021785,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_leaf_rough_4k.png",
+            "md5": "7f6209f86c8293946391261d776510e6"
+          },
+          "textures/quiver_tree_01_trunk_rough_4k.png": {
+            "size": 15535199,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_trunk_rough_4k.png",
+            "md5": "bbad18e9d706c0219d6768de7bd0fe5a"
+          }
+        },
+        "size": 9471288,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/quiver_tree_01/quiver_tree_01_4k.usdc",
+        "md5": "e5712534ccf1d0d74035792ace0b6c9e"
+      }
+    },
+    "2k": {
+      "usd": {
+        "include": {
+          "textures/quiver_tree_01_leaf_diff_2k.png": {
+            "size": 18000206,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_leaf_diff_2k.png",
+            "md5": "9c7e4193cf4357398464eb50f713a68e"
+          },
+          "textures/quiver_tree_01_leaf_rough_2k.png": {
+            "size": 5824381,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_leaf_rough_2k.png",
+            "md5": "578b21809d05443c51bcf319bc8f4995"
+          },
+          "textures/quiver_tree_01_trunk_diff_2k.png": {
+            "size": 18585833,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_trunk_diff_2k.png",
+            "md5": "ac1e6b5e2d96331e54e051cadd24b454"
+          },
+          "textures/quiver_tree_01_leaf_nor_gl_2k.png": {
+            "size": 19069974,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_2k.png",
+            "md5": "a34a4f83d21cd07d8c0cf4f1cfdd0aa8"
+          },
+          "textures/quiver_tree_01_trunk_rough_2k.png": {
+            "size": 5429575,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_trunk_rough_2k.png",
+            "md5": "20c983c396cc137348190a8b04ecac45"
+          },
+          "textures/quiver_tree_01_trunk_nor_gl_2k.png": {
+            "size": 19753063,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_2k.png",
+            "md5": "347dd344c7baa7ac923407984fbed2c8"
+          }
+        },
+        "size": 9471288,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/quiver_tree_01/quiver_tree_01_2k.usdc",
+        "md5": "5acbfde0e3242e9e49524124d31a5220"
+      }
+    },
+    "1k": {
+      "usd": {
+        "include": {
+          "textures/quiver_tree_01_trunk_nor_gl_1k.png": {
+            "size": 5132583,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_1k.png",
+            "md5": "6fb55a04eecf168c77925f8541e2531a"
+          },
+          "textures/quiver_tree_01_leaf_diff_1k.png": {
+            "size": 5040209,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_diff_1k.png",
+            "md5": "faa9bf6a7452366575ad3878111ac486"
+          },
+          "textures/quiver_tree_01_leaf_rough_1k.png": {
+            "size": 1705008,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_rough_1k.png",
+            "md5": "32969d7d0358264f4e112123671c86a3"
+          },
+          "textures/quiver_tree_01_trunk_diff_1k.png": {
+            "size": 4940265,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_diff_1k.png",
+            "md5": "90ae8213acbefe4ac067c4d28050117e"
+          },
+          "textures/quiver_tree_01_leaf_nor_gl_1k.png": {
+            "size": 5241285,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_1k.png",
+            "md5": "17c0aa19e0d2fc01fbac8f396106eeca"
+          },
+          "textures/quiver_tree_01_trunk_rough_1k.png": {
+            "size": 1547547,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_rough_1k.png",
+            "md5": "7c617dd99ef9db35fc277cea99dbeb72"
+          }
+        },
+        "size": 9471353,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/quiver_tree_01/quiver_tree_01_1k.usdc",
+        "md5": "9cbfebc645cdb8133b5660dc67bdea39"
+      }
+    }
+  },
+  "leaf_disp": {
+    "8k": {
+      "jpg": {
+        "size": 7937383,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_leaf_disp_8k.jpg",
+        "md5": "2b62804c40d886fe78258ed0c364b6e8"
+      },
+      "png": {
+        "size": 105621727,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_leaf_disp_8k.png",
+        "md5": "e5f18f29371a915ed0edcde006cf418a"
+      },
+      "exr": {
+        "size": 8171556,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/quiver_tree_01/quiver_tree_01_leaf_disp_8k.exr",
+        "md5": "6b135874deea4c1209ad9c8da3b40d10"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 2648650,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_leaf_disp_4k.jpg",
+        "md5": "0f1cdf81b1c3db3b990e7d72dadb34f4"
+      },
+      "png": {
+        "size": 23090220,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_leaf_disp_4k.png",
+        "md5": "f5710f903cf640518a01dc02e2ee5a01"
+      },
+      "exr": {
+        "size": 2888951,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/quiver_tree_01/quiver_tree_01_leaf_disp_4k.exr",
+        "md5": "9c987b97b28c16d2670c29dba6ab2ed2"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 839703,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_leaf_disp_2k.jpg",
+        "md5": "6891faf3d0ef2c25717a6a505b7aa6d3"
+      },
+      "png": {
+        "size": 6539467,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_leaf_disp_2k.png",
+        "md5": "e3f6097e392371c175d9f79ace182fed"
+      },
+      "exr": {
+        "size": 950727,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/quiver_tree_01/quiver_tree_01_leaf_disp_2k.exr",
+        "md5": "d113fa8118d7759899acdf6d60ef4fdb"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 252162,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_leaf_disp_1k.jpg",
+        "md5": "bec2d6828de5d1de277413a3fd154c37"
+      },
+      "png": {
+        "size": 1762278,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_disp_1k.png",
+        "md5": "31fde067ebefee4d9748d6c10953240e"
+      },
+      "exr": {
+        "size": 301808,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/quiver_tree_01/quiver_tree_01_leaf_disp_1k.exr",
+        "md5": "cd7901628ab702a00df5ec11548fe16a"
+      }
+    }
+  },
+  "leaf_diff": {
+    "8k": {
+      "jpg": {
+        "size": 24680061,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_leaf_diff_8k.jpg",
+        "md5": "50a2e48d456f3e50592954d8fb69fd9d"
+      },
+      "png": {
+        "size": 161150701,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_leaf_diff_8k.png",
+        "md5": "be23bfb311ddd998cad309f5c2d4ef14"
+      },
+      "exr": {
+        "size": 40385016,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/quiver_tree_01/quiver_tree_01_leaf_diff_8k.exr",
+        "md5": "87e273068e06756bd27a5f160c9c2715"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 7738414,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_leaf_diff_4k.jpg",
+        "md5": "363441d57c90215afa0a0c72e1a35c2b"
+      },
+      "png": {
+        "size": 61956705,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_leaf_diff_4k.png",
+        "md5": "64b9b5d02fc826b30ded8056fdd0e12e"
+      },
+      "exr": {
+        "size": 12824597,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/quiver_tree_01/quiver_tree_01_leaf_diff_4k.exr",
+        "md5": "a613c31ca3bc77cd967cd5d639a42ec5"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 2276970,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_leaf_diff_2k.jpg",
+        "md5": "6b390fedf7aae696f0f68ce606232a5f"
+      },
+      "png": {
+        "size": 18000206,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_leaf_diff_2k.png",
+        "md5": "9c7e4193cf4357398464eb50f713a68e"
+      },
+      "exr": {
+        "size": 4019429,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/quiver_tree_01/quiver_tree_01_leaf_diff_2k.exr",
+        "md5": "7498736cc4ba61a67ca397db1f832cb3"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 652456,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_leaf_diff_1k.jpg",
+        "md5": "ac7692d306b779c530177c14ddbba622"
+      },
+      "png": {
+        "size": 5040209,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_diff_1k.png",
+        "md5": "faa9bf6a7452366575ad3878111ac486"
+      },
+      "exr": {
+        "size": 1195451,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/quiver_tree_01/quiver_tree_01_leaf_diff_1k.exr",
+        "md5": "ecafb8fc5e7e718c58b6a3ce5f588d82"
+      }
+    }
+  },
+  "trunk_ao": {
+    "8k": {
+      "jpg": {
+        "size": 16443782,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_trunk_ao_8k.jpg",
+        "md5": "b3dd75986be403fba8a9143aad5c3c69"
+      },
+      "png": {
+        "size": 24497630,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_trunk_ao_8k.png",
+        "md5": "180f9176ac533ee4e04b79ded8404159"
+      },
+      "exr": {
+        "size": 14571453,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/quiver_tree_01/quiver_tree_01_trunk_ao_8k.exr",
+        "md5": "70097d988bf2174ef26b3e9fb598f4dc"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 3943086,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_trunk_ao_4k.jpg",
+        "md5": "fc458df1acc69a62f80897063bf31eaa"
+      },
+      "png": {
+        "size": 12595673,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_trunk_ao_4k.png",
+        "md5": "1540c681b68cca4830163a0bdab11eb5"
+      },
+      "exr": {
+        "size": 3438122,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/quiver_tree_01/quiver_tree_01_trunk_ao_4k.exr",
+        "md5": "f25470b1cf22ea259c5d6d63d1c9b91d"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 973023,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_trunk_ao_2k.jpg",
+        "md5": "5d2cb50f74fd175e5751403ee49fb2b9"
+      },
+      "png": {
+        "size": 4290126,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_trunk_ao_2k.png",
+        "md5": "7cc54bb56b129162341ad9a7ac1c8e7e"
+      },
+      "exr": {
+        "size": 910002,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/quiver_tree_01/quiver_tree_01_trunk_ao_2k.exr",
+        "md5": "8733f2622befd106cb58ab875645ad51"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 270666,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_trunk_ao_1k.jpg",
+        "md5": "69346cea7689531adf1b6b9b6781de17"
+      },
+      "png": {
+        "size": 1294286,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_ao_1k.png",
+        "md5": "3615a804a328e4aeb5060c1a8d7a5c38"
+      },
+      "exr": {
+        "size": 284648,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/quiver_tree_01/quiver_tree_01_trunk_ao_1k.exr",
+        "md5": "a5c1d26747b88bcc45ff23b0104966e4"
+      }
+    }
+  },
+  "leaf_ao": {
+    "8k": {
+      "jpg": {
+        "size": 22465292,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_leaf_ao_8k.jpg",
+        "md5": "6cd31419c430b890d6fb8d2e3329e067"
+      },
+      "png": {
+        "size": 29528761,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_leaf_ao_8k.png",
+        "md5": "90373415147603a9a6164e2b482d47de"
+      },
+      "exr": {
+        "size": 23263707,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/quiver_tree_01/quiver_tree_01_leaf_ao_8k.exr",
+        "md5": "1f2e4cb46b0b8267cc3ecbec82587e22"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 6300294,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_leaf_ao_4k.jpg",
+        "md5": "16da5a13eff5360eda8b0b4e2cca8436"
+      },
+      "png": {
+        "size": 15061427,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_leaf_ao_4k.png",
+        "md5": "be6a32b2ba7f1b240ae50d9c5c15a6a6"
+      },
+      "exr": {
+        "size": 6448120,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/quiver_tree_01/quiver_tree_01_leaf_ao_4k.exr",
+        "md5": "1e139635ad3f6ded36b318409429287b"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1741044,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_leaf_ao_2k.jpg",
+        "md5": "3b021b66e4c6820a2d6b401123e0e965"
+      },
+      "png": {
+        "size": 5062485,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_leaf_ao_2k.png",
+        "md5": "100b1037acaa19fe6b2c2e9ac867aadf"
+      },
+      "exr": {
+        "size": 1805317,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/quiver_tree_01/quiver_tree_01_leaf_ao_2k.exr",
+        "md5": "c2e4cc6774d9990c61b791180dd48538"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 491203,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_leaf_ao_1k.jpg",
+        "md5": "f8738ff7490cfd43742e4d8537f4532c"
+      },
+      "png": {
+        "size": 1519205,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_ao_1k.png",
+        "md5": "907dd1de2312656fb4b3bbfd5b0d402d"
+      },
+      "exr": {
+        "size": 535076,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/quiver_tree_01/quiver_tree_01_leaf_ao_1k.exr",
+        "md5": "be3c4ce8158e93346f692f86220b4f11"
+      }
+    }
+  },
+  "trunk_nor_dx": {
+    "8k": {
+      "jpg": {
+        "size": 74840630,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_trunk_nor_dx_8k.jpg",
+        "md5": "308649a656673e6ebdbd999c58aa3b60"
+      },
+      "png": {
+        "size": 283416096,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_trunk_nor_dx_8k.png",
+        "md5": "62165ca66d32a06b0c4f4e332318665f"
+      },
+      "exr": {
+        "size": 141672310,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/quiver_tree_01/quiver_tree_01_trunk_nor_dx_8k.exr",
+        "md5": "faf3af8e7f122aa80d9a0df358ecfcfc"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 17831376,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_trunk_nor_dx_4k.jpg",
+        "md5": "7dab83754a213f51ad0c3e790fca6497"
+      },
+      "png": {
+        "size": 74741836,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_trunk_nor_dx_4k.png",
+        "md5": "2107c78222b0ed9c526ae0648747b8f0"
+      },
+      "exr": {
+        "size": 35518770,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/quiver_tree_01/quiver_tree_01_trunk_nor_dx_4k.exr",
+        "md5": "bb6d13b5cd9623d013421792732dca5d"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 4087503,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_trunk_nor_dx_2k.jpg",
+        "md5": "1210cd33e9b60152b718fc15668c5dd2"
+      },
+      "png": {
+        "size": 19752991,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_trunk_nor_dx_2k.png",
+        "md5": "67cfd61b358ba5e66dbd04c7a031b671"
+      },
+      "exr": {
+        "size": 8571621,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/quiver_tree_01/quiver_tree_01_trunk_nor_dx_2k.exr",
+        "md5": "789db43ed21110ae5e160ac54935349f"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 949719,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_trunk_nor_dx_1k.jpg",
+        "md5": "128c273e5482ecc1d5a89f554fff247f"
+      },
+      "png": {
+        "size": 5133174,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_nor_dx_1k.png",
+        "md5": "ae0a6432800605e4cd4ac7cbd2999cf1"
+      },
+      "exr": {
+        "size": 2082694,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/quiver_tree_01/quiver_tree_01_trunk_nor_dx_1k.exr",
+        "md5": "922926bb7ce210db4ac15b94a83efdfe"
+      }
+    }
+  },
+  "leaf_nor_dx": {
+    "8k": {
+      "jpg": {
+        "size": 45697377,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_leaf_nor_dx_8k.jpg",
+        "md5": "25e44d540f6bde18121dbcfb2428ef93"
+      },
+      "png": {
+        "size": 235167187,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_leaf_nor_dx_8k.png",
+        "md5": "b6ac899cc227f54c6443fda6245b47c4"
+      },
+      "exr": {
+        "size": 88865210,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/quiver_tree_01/quiver_tree_01_leaf_nor_dx_8k.exr",
+        "md5": "7bae8f7a3b9e8d23225e004f4589c4e5"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 13692055,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_leaf_nor_dx_4k.jpg",
+        "md5": "ef2cbe8c46c083c84ecfb6c8b0db4603"
+      },
+      "png": {
+        "size": 68109920,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_leaf_nor_dx_4k.png",
+        "md5": "7240c08ff1423edacef3a2a8b72e4ff9"
+      },
+      "exr": {
+        "size": 28739931,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/quiver_tree_01/quiver_tree_01_leaf_nor_dx_4k.exr",
+        "md5": "064df9c1ed58aa773a2fd920a5084812"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 3607852,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_leaf_nor_dx_2k.jpg",
+        "md5": "d0778b117a7b703588235c4292135152"
+      },
+      "png": {
+        "size": 19072310,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_leaf_nor_dx_2k.png",
+        "md5": "9fcb720a35f153a50d225b0fdad738c3"
+      },
+      "exr": {
+        "size": 7840582,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/quiver_tree_01/quiver_tree_01_leaf_nor_dx_2k.exr",
+        "md5": "4c5ad31785b511c4ab6936c19a8bb593"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 907929,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_leaf_nor_dx_1k.jpg",
+        "md5": "9607c76cd4c9c69595394b46d6ec54ad"
+      },
+      "png": {
+        "size": 5241067,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_nor_dx_1k.png",
+        "md5": "8e3e4d212ef6f39a57e94bc6cbc1d231"
+      },
+      "exr": {
+        "size": 2022170,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/quiver_tree_01/quiver_tree_01_leaf_nor_dx_1k.exr",
+        "md5": "5c7370770b4e0dedbfced3a0e5a9b5dc"
+      }
+    }
+  },
+  "trunk_arm": {
+    "8k": {
+      "jpg": {
+        "size": 24196550,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_trunk_arm_8k.jpg",
+        "md5": "02eaaa2ce4c05ab4bb5afa2d20954c1c"
+      },
+      "png": {
+        "size": 47620661,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_trunk_arm_8k.png",
+        "md5": "965daad92f4eb04ea3e37b48cad91eae"
+      },
+      "exr": {
+        "size": 42261766,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/quiver_tree_01/quiver_tree_01_trunk_arm_8k.exr",
+        "md5": "83f44c5419af3360f6f2c0792c76b7bf"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 7036057,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_trunk_arm_4k.jpg",
+        "md5": "75e60b1bb394a75b52e4567ba506b68b"
+      },
+      "png": {
+        "size": 13687742,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_trunk_arm_4k.png",
+        "md5": "2e84ea4a1aa93cd53630977807620a04"
+      },
+      "exr": {
+        "size": 13477034,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/quiver_tree_01/quiver_tree_01_trunk_arm_4k.exr",
+        "md5": "cc61b33a4269d78700e8fbe70470dc5d"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1871432,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_trunk_arm_2k.jpg",
+        "md5": "741bf10e3c5a3a19574f19ee9f19b324"
+      },
+      "png": {
+        "size": 3554034,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_trunk_arm_2k.png",
+        "md5": "ef971603e94852e8b4f908abe8933a71"
+      },
+      "exr": {
+        "size": 3717922,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/quiver_tree_01/quiver_tree_01_trunk_arm_2k.exr",
+        "md5": "364ead95d1a72d047016b0948de79096"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 492139,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_trunk_arm_1k.jpg",
+        "md5": "b7b46a8529e62e706b9a0e3417af1309"
+      },
+      "png": {
+        "size": 929174,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_arm_1k.png",
+        "md5": "44a336b5d409c8eb08391f3a0a87ea5f"
+      },
+      "exr": {
+        "size": 967696,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/quiver_tree_01/quiver_tree_01_trunk_arm_1k.exr",
+        "md5": "9d5b52d96cc9a08a316040c12071d341"
+      }
+    }
+  },
+  "leaf_rough": {
+    "8k": {
+      "jpg": {
+        "size": 20450019,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_leaf_rough_8k.jpg",
+        "md5": "ce3219841a007a1c9668a19e69062051"
+      },
+      "png": {
+        "size": 24873895,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_leaf_rough_8k.png",
+        "md5": "3b63ae77a509005a5f3b50a2d33020c0"
+      },
+      "exr": {
+        "size": 20075219,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/quiver_tree_01/quiver_tree_01_leaf_rough_8k.exr",
+        "md5": "e8c004641d30dd37c00a79ad17133f18"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 6609225,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_leaf_rough_4k.jpg",
+        "md5": "2c707a4015090aa7d4c33a4c922a2c9b"
+      },
+      "png": {
+        "size": 16021785,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_leaf_rough_4k.png",
+        "md5": "7f6209f86c8293946391261d776510e6"
+      },
+      "exr": {
+        "size": 6579846,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/quiver_tree_01/quiver_tree_01_leaf_rough_4k.exr",
+        "md5": "21d5d08ea9620c39aa697f773fbcd61c"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1932910,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_leaf_rough_2k.jpg",
+        "md5": "b792c3d915f51c8a1dfeaa870e7c6a42"
+      },
+      "png": {
+        "size": 5824381,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_leaf_rough_2k.png",
+        "md5": "578b21809d05443c51bcf319bc8f4995"
+      },
+      "exr": {
+        "size": 1981316,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/quiver_tree_01/quiver_tree_01_leaf_rough_2k.exr",
+        "md5": "fb554955602c14c0dd3ce7248bdcff0e"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 540613,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_leaf_rough_1k.jpg",
+        "md5": "d4af4145933acf1dd11b7ac7aa76e491"
+      },
+      "png": {
+        "size": 1705008,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_rough_1k.png",
+        "md5": "32969d7d0358264f4e112123671c86a3"
+      },
+      "exr": {
+        "size": 574022,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/quiver_tree_01/quiver_tree_01_leaf_rough_1k.exr",
+        "md5": "be8f16c1494151cab2fb13fdc2ea52ea"
+      }
+    }
+  },
+  "trunk_disp": {
+    "8k": {
+      "jpg": {
+        "size": 10491068,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_trunk_disp_8k.jpg",
+        "md5": "842c5393738d3e57fe6be9ee3c619ce6"
+      },
+      "png": {
+        "size": 46983188,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_trunk_disp_8k.png",
+        "md5": "9811d80db6a301b7e51db9d7e4fe21d0"
+      },
+      "exr": {
+        "size": 10122643,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/quiver_tree_01/quiver_tree_01_trunk_disp_8k.exr",
+        "md5": "71e6f8420be5ab8606515a110313d1c1"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 3140396,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_trunk_disp_4k.jpg",
+        "md5": "6dada8b8196c0dd7cfd5111584279193"
+      },
+      "png": {
+        "size": 18028880,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_trunk_disp_4k.png",
+        "md5": "5ef70a96a8595918d46d0304200389b3"
+      },
+      "exr": {
+        "size": 3034469,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/quiver_tree_01/quiver_tree_01_trunk_disp_4k.exr",
+        "md5": "796a9ab14c96e9629ba07fb69392d841"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 878357,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_trunk_disp_2k.jpg",
+        "md5": "67d8197f3dcf671f7c99f9438f737c57"
+      },
+      "png": {
+        "size": 5330366,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_trunk_disp_2k.png",
+        "md5": "ecc486384de11db837f08cd7bca3da59"
+      },
+      "exr": {
+        "size": 862017,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/quiver_tree_01/quiver_tree_01_trunk_disp_2k.exr",
+        "md5": "e3d0e624a04d95aad4c30b98b40ef9c0"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 233084,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_trunk_disp_1k.jpg",
+        "md5": "6a7e5027942e4f2aea62db1623c6b3a8"
+      },
+      "png": {
+        "size": 1435215,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_disp_1k.png",
+        "md5": "4334f880b11ecb59802d4dbf2b258186"
+      },
+      "exr": {
+        "size": 235712,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/quiver_tree_01/quiver_tree_01_trunk_disp_1k.exr",
+        "md5": "a2872a96d1efdd9ccd042e3e9d96cd81"
+      }
+    }
+  },
+  "trunk_nor_gl": {
+    "8k": {
+      "jpg": {
+        "size": 70841871,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_8k.jpg",
+        "md5": "3c713d327ebf2fe24ad1e9653a37fac4"
+      },
+      "png": {
+        "size": 283421950,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_8k.png",
+        "md5": "eb3e0410d2da1a1e9f7112af86526ee1"
+      },
+      "exr": {
+        "size": 141603593,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_8k.exr",
+        "md5": "063b7bc4351751c71588addad2ba48a7"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 17433648,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_4k.jpg",
+        "md5": "eb35d0a72a3d907db50bf8bd800b5076"
+      },
+      "png": {
+        "size": 74739837,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_4k.png",
+        "md5": "e26705690e9caefba4848e805ae9bc6f"
+      },
+      "exr": {
+        "size": 35495103,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_4k.exr",
+        "md5": "ec045c0de46e7962aec702aa4d68c08e"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 4045445,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_2k.jpg",
+        "md5": "54bca1f06abfad95f385ee32e6dc2b5d"
+      },
+      "png": {
+        "size": 19753063,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_2k.png",
+        "md5": "347dd344c7baa7ac923407984fbed2c8"
+      },
+      "exr": {
+        "size": 8571932,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_2k.exr",
+        "md5": "6c35f309abe73c501e56074a3e7ed4cb"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 940495,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_1k.jpg",
+        "md5": "b592c0f7abdefab0c9e2f354b9274683"
+      },
+      "png": {
+        "size": 5132583,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_1k.png",
+        "md5": "6fb55a04eecf168c77925f8541e2531a"
+      },
+      "exr": {
+        "size": 2083506,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_1k.exr",
+        "md5": "e044f9b15ef0923d380c2010af5b8f45"
+      }
+    }
+  },
+  "fbx": {
+    "8k": {
+      "fbx": {
+        "include": {
+          "textures/quiver_tree_01_leaf_rough_8k.png": {
+            "size": 24873895,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_leaf_rough_8k.png",
+            "md5": "3b63ae77a509005a5f3b50a2d33020c0"
+          },
+          "textures/quiver_tree_01_trunk_rough_8k.png": {
+            "size": 27019272,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_trunk_rough_8k.png",
+            "md5": "2b1f83e53afdaccad62efc867c1acfd0"
+          },
+          "textures/quiver_tree_01_trunk_diff_8k.png": {
+            "size": 240995666,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_trunk_diff_8k.png",
+            "md5": "59c6931b2339f8977b16fe25febcc23d"
+          },
+          "textures/quiver_tree_01_trunk_nor_gl_8k.png": {
+            "size": 283421950,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_8k.png",
+            "md5": "eb3e0410d2da1a1e9f7112af86526ee1"
+          },
+          "textures/quiver_tree_01_leaf_diff_8k.png": {
+            "size": 161150701,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_leaf_diff_8k.png",
+            "md5": "be23bfb311ddd998cad309f5c2d4ef14"
+          },
+          "textures/quiver_tree_01_leaf_nor_gl_8k.png": {
+            "size": 235192223,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_8k.png",
+            "md5": "c51aaa7af64f4df8aa3415e89cf9aec3"
+          }
+        },
+        "size": 4859020,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/quiver_tree_01/quiver_tree_01_8k.fbx",
+        "md5": "0de2cc143035fd4c37d52634912e6385"
+      }
+    },
+    "4k": {
+      "fbx": {
+        "include": {
+          "textures/quiver_tree_01_trunk_nor_gl_4k.png": {
+            "size": 74739837,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_4k.png",
+            "md5": "e26705690e9caefba4848e805ae9bc6f"
+          },
+          "textures/quiver_tree_01_leaf_nor_gl_4k.png": {
+            "size": 68110090,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_4k.png",
+            "md5": "cba2accd7cfb999a29f31aea2fbc2246"
+          },
+          "textures/quiver_tree_01_leaf_diff_4k.png": {
+            "size": 61956705,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_leaf_diff_4k.png",
+            "md5": "64b9b5d02fc826b30ded8056fdd0e12e"
+          },
+          "textures/quiver_tree_01_trunk_diff_4k.png": {
+            "size": 68386424,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_trunk_diff_4k.png",
+            "md5": "fe95a2bacdb1a52f1636c09fcff8197f"
+          },
+          "textures/quiver_tree_01_leaf_rough_4k.png": {
+            "size": 16021785,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_leaf_rough_4k.png",
+            "md5": "7f6209f86c8293946391261d776510e6"
+          },
+          "textures/quiver_tree_01_trunk_rough_4k.png": {
+            "size": 15535199,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_trunk_rough_4k.png",
+            "md5": "bbad18e9d706c0219d6768de7bd0fe5a"
+          }
+        },
+        "size": 4859020,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/quiver_tree_01/quiver_tree_01_4k.fbx",
+        "md5": "c1f34dcd569b03363541b364b08fc7fb"
+      }
+    },
+    "2k": {
+      "fbx": {
+        "include": {
+          "textures/quiver_tree_01_leaf_diff_2k.png": {
+            "size": 18000206,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_leaf_diff_2k.png",
+            "md5": "9c7e4193cf4357398464eb50f713a68e"
+          },
+          "textures/quiver_tree_01_leaf_rough_2k.png": {
+            "size": 5824381,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_leaf_rough_2k.png",
+            "md5": "578b21809d05443c51bcf319bc8f4995"
+          },
+          "textures/quiver_tree_01_trunk_diff_2k.png": {
+            "size": 18585833,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_trunk_diff_2k.png",
+            "md5": "ac1e6b5e2d96331e54e051cadd24b454"
+          },
+          "textures/quiver_tree_01_leaf_nor_gl_2k.png": {
+            "size": 19069974,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_2k.png",
+            "md5": "a34a4f83d21cd07d8c0cf4f1cfdd0aa8"
+          },
+          "textures/quiver_tree_01_trunk_rough_2k.png": {
+            "size": 5429575,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_trunk_rough_2k.png",
+            "md5": "20c983c396cc137348190a8b04ecac45"
+          },
+          "textures/quiver_tree_01_trunk_nor_gl_2k.png": {
+            "size": 19753063,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_2k.png",
+            "md5": "347dd344c7baa7ac923407984fbed2c8"
+          }
+        },
+        "size": 4859020,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/quiver_tree_01/quiver_tree_01_2k.fbx",
+        "md5": "fd5317cc80931e8de532259817de189b"
+      }
+    },
+    "1k": {
+      "fbx": {
+        "include": {
+          "textures/quiver_tree_01_trunk_nor_gl_1k.png": {
+            "size": 5132583,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_1k.png",
+            "md5": "6fb55a04eecf168c77925f8541e2531a"
+          },
+          "textures/quiver_tree_01_leaf_diff_1k.png": {
+            "size": 5040209,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_diff_1k.png",
+            "md5": "faa9bf6a7452366575ad3878111ac486"
+          },
+          "textures/quiver_tree_01_leaf_rough_1k.png": {
+            "size": 1705008,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_rough_1k.png",
+            "md5": "32969d7d0358264f4e112123671c86a3"
+          },
+          "textures/quiver_tree_01_trunk_diff_1k.png": {
+            "size": 4940265,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_diff_1k.png",
+            "md5": "90ae8213acbefe4ac067c4d28050117e"
+          },
+          "textures/quiver_tree_01_leaf_nor_gl_1k.png": {
+            "size": 5241285,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_1k.png",
+            "md5": "17c0aa19e0d2fc01fbac8f396106eeca"
+          },
+          "textures/quiver_tree_01_trunk_rough_1k.png": {
+            "size": 1547547,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_rough_1k.png",
+            "md5": "7c617dd99ef9db35fc277cea99dbeb72"
+          }
+        },
+        "size": 4859020,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/quiver_tree_01/quiver_tree_01_1k.fbx",
+        "md5": "9781eb39c59ac77547dc9c7644da96a3"
+      }
+    }
+  },
+  "leaf_arm": {
+    "8k": {
+      "jpg": {
+        "size": 30411231,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/quiver_tree_01/quiver_tree_01_leaf_arm_8k.jpg",
+        "md5": "210d7307d3df978d5b3e9bab24bd4d6b"
+      },
+      "png": {
+        "size": 49175593,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/quiver_tree_01/quiver_tree_01_leaf_arm_8k.png",
+        "md5": "a79a329eaea34243d6ad6508ccb88d71"
+      },
+      "exr": {
+        "size": 53849179,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/quiver_tree_01/quiver_tree_01_leaf_arm_8k.exr",
+        "md5": "5e73976de73f8aa7213efb139ee5d0c5"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 9197490,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/quiver_tree_01/quiver_tree_01_leaf_arm_4k.jpg",
+        "md5": "2e556c0af7a81a0d4f6f3c0f4cbb845a"
+      },
+      "png": {
+        "size": 15745594,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/quiver_tree_01/quiver_tree_01_leaf_arm_4k.png",
+        "md5": "93e38dbca6c8955d936a82a568785dbf"
+      },
+      "exr": {
+        "size": 17261519,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/quiver_tree_01/quiver_tree_01_leaf_arm_4k.exr",
+        "md5": "59ebff7a6fe73f0137046d5a131e1c91"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 2654551,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/quiver_tree_01/quiver_tree_01_leaf_arm_2k.jpg",
+        "md5": "5ab84c81760cd2c526a4833ffeab6a3e"
+      },
+      "png": {
+        "size": 4584102,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/quiver_tree_01/quiver_tree_01_leaf_arm_2k.png",
+        "md5": "147b6568d3f75ff187c6476bb03ffad0"
+      },
+      "exr": {
+        "size": 5246672,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/quiver_tree_01/quiver_tree_01_leaf_arm_2k.exr",
+        "md5": "bc8b723340eeb785e02aaf886ec5d8fd"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 737159,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/quiver_tree_01/quiver_tree_01_leaf_arm_1k.jpg",
+        "md5": "23212753d3e3464d7d74702ed6a1d178"
+      },
+      "png": {
+        "size": 1288769,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_arm_1k.png",
+        "md5": "7a7e86a45ad93fcd2d5b3b7904f3fea6"
+      },
+      "exr": {
+        "size": 1513038,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/quiver_tree_01/quiver_tree_01_leaf_arm_1k.exr",
+        "md5": "b1c2881637ce4e8667d02833ba6a872c"
+      }
+    }
+  }
+}

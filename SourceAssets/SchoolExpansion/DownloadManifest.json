@@ -1,0 +1,156 @@
+[
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/shrub_01/shrub_01_1k.fbx",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\shrub_01\\shrub_01.fbx",
+    "bytes": 4655340,
+    "sha256": "fcc961e8d9dd45fb807b5bb84dc2bec88f63e1713fb1757762188c8475b96326",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/shrub_01/shrub_01_rough_1k.exr",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\shrub_01\\textures\\shrub_01_rough_1k.exr",
+    "bytes": 343569,
+    "sha256": "138f5fb22a95bf443e21dbfdc62714ad9f21986f3cdd35eba1e45293d74ca63d",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/shrub_01/shrub_01_nor_gl_1k.exr",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\shrub_01\\textures\\shrub_01_nor_gl_1k.exr",
+    "bytes": 1651867,
+    "sha256": "b940c0e6e7f52c3b40562a190286efb6941d5f22e39d9f07728c313cb019d5bb",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/grass_bermuda_01/grass_bermuda_01_1k.fbx",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\grass_bermuda_01\\grass_bermuda_01.fbx",
+    "bytes": 107212,
+    "sha256": "ec188edf028e1a76ed2e63f7483165ea765f0212b317e4b73fdc3d64610500cd",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/grass_bermuda_01/grass_bermuda_01_diff_1k.jpg",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\grass_bermuda_01\\textures\\grass_bermuda_01_diff_1k.jpg",
+    "bytes": 175425,
+    "sha256": "ef202eeb8f8fb3312446009acecc87e5679a7d612e4dee859d8a849e00af5fcb",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/grass_bermuda_01/grass_bermuda_01_nor_gl_1k.exr",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\grass_bermuda_01\\textures\\grass_bermuda_01_nor_gl_1k.exr",
+    "bytes": 1558026,
+    "sha256": "7aab2717abf1395f618639038c873901ef56ccddaceb785120d3c92bf25efe85",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/grass_bermuda_01/grass_bermuda_01_rough_1k.exr",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\grass_bermuda_01\\textures\\grass_bermuda_01_rough_1k.exr",
+    "bytes": 704249,
+    "sha256": "d2f7d214ed82da77531027b8f865613d41d0b92582e5054a79fc025970e34cf8",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/shrub_01/shrub_01_alpha_1k.png",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\shrub_01\\textures\\shrub_01_alpha_1k.png",
+    "bytes": 132597,
+    "sha256": "eb693835205913dfc705a08fb45f3e8d1c338332bd0097e9837773765b421603",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/shrub_01/shrub_01_diff_1k.jpg",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\shrub_01\\textures\\shrub_01_diff_1k.jpg",
+    "bytes": 502162,
+    "sha256": "fe60e639d694e1807c0a3ae97dd1d5a7e7b3f84e5fc32d0610b868ce48f36331",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/shrub_01/shrub_01_disp_1k.png",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\shrub_01\\textures\\shrub_01_disp_1k.png",
+    "bytes": 970478,
+    "sha256": "14860a84281cc4cc28bf4cadcba6cd68110c6a6558f288090a83ab40dab83199",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/tree_small_02/tree_small_02_1k.fbx",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\tree_small_02\\tree_small_02.fbx",
+    "bytes": 75487180,
+    "sha256": "442394b4d39dcefef6c54358becea3c86735f040f2601b2c0c082e3ecf3685c5",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/tree_small_02/tree_small_02_branch_diff_1k.png",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\tree_small_02\\textures\\tree_small_02_branch_diff_1k.png",
+    "bytes": 1277270,
+    "sha256": "a93ce54213c4a98cd01cb5c5f7ab46b77defcd66e1dd082e6912f6e60632e630",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/tree_small_02/tree_small_02_branch_nor_gl_1k.png",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\tree_small_02\\textures\\tree_small_02_branch_nor_gl_1k.png",
+    "bytes": 5754879,
+    "sha256": "0338a1400391893fdf6c6cbd1c22a573d6ab2300ad771d4916184bf206e1a671",
+    "license": "CC0"
+  },
+  {
+    "url": "https://opengameart.org/sites/default/files/ultimate_animated_character_pack_by_quaternius.zip",
+    "path": "SourceAssets\\SchoolExpansion\\Quaternius-Animated-Characters-CC0.zip",
+    "bytes": 48430012,
+    "sha256": "0295062cbc72da52ee804f39ac38694901a40458011f9b2638fc7ef13ed509da",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/tree_small_02/tree_small_02_branch_rough_1k.png",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\tree_small_02\\textures\\tree_small_02_branch_rough_1k.png",
+    "bytes": 421614,
+    "sha256": "f285a54d141f30e39c7741e84a813c5cbccd9e9ee397af687176213f77d3e9a5",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/tree_small_02/tree_small_02_diff_1k.jpg",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\tree_small_02\\textures\\tree_small_02_diff_1k.jpg",
+    "bytes": 863246,
+    "sha256": "4e0093f407b3a1120a36de49a48ebe5a465a9a9b77e361c7a3e66866e115e404",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/tree_small_02/tree_small_02_leaves_alpha_1k.png",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\tree_small_02\\textures\\tree_small_02_leaves_alpha_1k.png",
+    "bytes": 264711,
+    "sha256": "4f143e2dda8a6a572f427ac378b92255d21761e4611de0d26e21816c01aa533b",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/tree_small_02/tree_small_02_leaves_diff_1k.png",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\tree_small_02\\textures\\tree_small_02_leaves_diff_1k.png",
+    "bytes": 2338424,
+    "sha256": "d3fc48522c76aa1f91076c6b86f302669822ebe4e2acabd67d42c4d57eaa5ba0",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/tree_small_02/tree_small_02_leaves_nor_gl_1k.png",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\tree_small_02\\textures\\tree_small_02_leaves_nor_gl_1k.png",
+    "bytes": 4903387,
+    "sha256": "fa4ad390f2e68b745db8f568cad64c3272696c5e01312ae564795e37724d79b8",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/tree_small_02/tree_small_02_leaves_rough_1k.png",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\tree_small_02\\textures\\tree_small_02_leaves_rough_1k.png",
+    "bytes": 1043665,
+    "sha256": "f005213467e38bcb355b00c9a6eb9896b8d810ee885d5c7fa308d9f3326ef602",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/tree_small_02/tree_small_02_nor_gl_1k.exr",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\tree_small_02\\textures\\tree_small_02_nor_gl_1k.exr",
+    "bytes": 2462999,
+    "sha256": "cf999e30663267b55b6fab43ca97c1e96176bdc67268e6c25854d53f15267d64",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/tree_small_02/tree_small_02_rough_1k.exr",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\tree_small_02\\textures\\tree_small_02_rough_1k.exr",
+    "bytes": 978557,
+    "sha256": "1ed5ad24397c065beb2b2d3521470730f24e957cbd5fb323ad3f9b6d267b4585",
+    "license": "CC0"
+  }
+]

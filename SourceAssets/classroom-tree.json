@@ -1,0 +1,2758 @@
+{
+  "sha": "d2428e0e9d41030ff59cbb48924560a68092212f",
+  "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/d2428e0e9d41030ff59cbb48924560a68092212f",
+  "tree": [
+    {
+      "path": "Assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "af1ed2af5e2d772d8213df4d3e61eaed23483ac3",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/af1ed2af5e2d772d8213df4d3e61eaed23483ac3"
+    },
+    {
+      "path": "Assets/ClassroomDynamic.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa250650a533935b77e56e4bddeeac47d0705eb9",
+      "size": 476,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/aa250650a533935b77e56e4bddeeac47d0705eb9"
+    },
+    {
+      "path": "Assets/ClassroomDynamic.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "642cd0eff2b907c52923510d0a6a8f23cd0fe3f5",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/642cd0eff2b907c52923510d0a6a8f23cd0fe3f5"
+    },
+    {
+      "path": "Assets/OutdoorsScene.unity",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1023795f1794af31b8720c8d4e7f30b0dbf6c14e",
+      "size": 17042,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/1023795f1794af31b8720c8d4e7f30b0dbf6c14e"
+    },
+    {
+      "path": "Assets/OutdoorsScene.unity.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0af08b7fec1880f23cd7288823bc122108f002f",
+      "size": 155,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/e0af08b7fec1880f23cd7288823bc122108f002f"
+    },
+    {
+      "path": "Assets/Readme.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b28ddadf3db0785ff0a7586ad635f2bb9ff4eb21",
+      "size": 1141,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b28ddadf3db0785ff0a7586ad635f2bb9ff4eb21"
+    },
+    {
+      "path": "Assets/Readme.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fce2d347ab963c98687ea8e3c740bbbe1fe1e27b",
+      "size": 182,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/fce2d347ab963c98687ea8e3c740bbbe1fe1e27b"
+    },
+    {
+      "path": "Assets/Settings.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5704eb7d28601e8d1495afa9b9da6826ce3faa47",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/5704eb7d28601e8d1495afa9b9da6826ce3faa47"
+    },
+    {
+      "path": "Assets/Settings",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a90e44b215f6fadf7debe7d17e6d421f15cb5137",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/a90e44b215f6fadf7debe7d17e6d421f15cb5137"
+    },
+    {
+      "path": "Assets/Settings/Classroom.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63e0daa84932ac202c8fe577a4d2a64afbce9672",
+      "size": 469,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/63e0daa84932ac202c8fe577a4d2a64afbce9672"
+    },
+    {
+      "path": "Assets/Settings/Classroom.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60cd8f5d617a5a9645b2c6b32e8b64ed6070fb9a",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/60cd8f5d617a5a9645b2c6b32e8b64ed6070fb9a"
+    },
+    {
+      "path": "Assets/Settings/HDRP Balanced.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c66504a751f6bca45d20b13250bb43fba520b0b",
+      "size": 13648,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/8c66504a751f6bca45d20b13250bb43fba520b0b"
+    },
+    {
+      "path": "Assets/Settings/HDRP Balanced.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0df13d139b652c5e2e1793343b4ec09941ee7b57",
+      "size": 182,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/0df13d139b652c5e2e1793343b4ec09941ee7b57"
+    },
+    {
+      "path": "Assets/Settings/HDRP High Fidelity.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea7621d40ed05393a6c758823767843e5d5c5394",
+      "size": 13584,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ea7621d40ed05393a6c758823767843e5d5c5394"
+    },
+    {
+      "path": "Assets/Settings/HDRP High Fidelity.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "556a76380b5675f92492831f93494ff5044116a2",
+      "size": 182,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/556a76380b5675f92492831f93494ff5044116a2"
+    },
+    {
+      "path": "Assets/Settings/HDRP Performant.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b705fd0e69950cd966158ff65197c63245b4fc0d",
+      "size": 13630,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b705fd0e69950cd966158ff65197c63245b4fc0d"
+    },
+    {
+      "path": "Assets/Settings/HDRP Performant.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6f7b1c6bcc42ac07072961edc53ea1db663c246",
+      "size": 182,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/e6f7b1c6bcc42ac07072961edc53ea1db663c246"
+    },
+    {
+      "path": "Assets/Settings/HDRPDefaultResources.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc14cdc562c57d16ed606b98be70267b28a609e7",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/bc14cdc562c57d16ed606b98be70267b28a609e7"
+    },
+    {
+      "path": "Assets/Settings/HDRPDefaultResources",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "efdcb743ff17e9c56b86f4df3e216b05a4c1eb3c",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/efdcb743ff17e9c56b86f4df3e216b05a4c1eb3c"
+    },
+    {
+      "path": "Assets/Settings/HDRPDefaultResources/DefaultLookDevProfile.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67114aba5e78c68b33028f47e16a1a076e63683f",
+      "size": 4985,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/67114aba5e78c68b33028f47e16a1a076e63683f"
+    },
+    {
+      "path": "Assets/Settings/HDRPDefaultResources/DefaultLookDevProfile.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2ffa568fd95c63221af60754057b5beae946248",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/d2ffa568fd95c63221af60754057b5beae946248"
+    },
+    {
+      "path": "Assets/Settings/HDRPDefaultResources/DefaultSettingsVolumeProfile.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0f250d50950d6884fe40ed38e87c24287158055",
+      "size": 13922,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/e0f250d50950d6884fe40ed38e87c24287158055"
+    },
+    {
+      "path": "Assets/Settings/HDRPDefaultResources/DefaultSettingsVolumeProfile.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18b5dbaa1d91ee88bfafe0aacc631cc78f3feabd",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/18b5dbaa1d91ee88bfafe0aacc631cc78f3feabd"
+    },
+    {
+      "path": "Assets/Settings/HDRPDefaultResources/FoliageDiffusionProfile.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e9a89fcb93a29bb7309e1faccb19f56d88b89cc",
+      "size": 697,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/3e9a89fcb93a29bb7309e1faccb19f56d88b89cc"
+    },
+    {
+      "path": "Assets/Settings/HDRPDefaultResources/FoliageDiffusionProfile.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56cafeaa64dbc3bf69c5f5beeeb51556419fa2cc",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/56cafeaa64dbc3bf69c5f5beeeb51556419fa2cc"
+    },
+    {
+      "path": "Assets/Settings/HDRPDefaultResources/HDRenderPipelineAsset.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "046630dfc7d9dc1fdcd27e7830616a171f324a25",
+      "size": 13146,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/046630dfc7d9dc1fdcd27e7830616a171f324a25"
+    },
+    {
+      "path": "Assets/Settings/HDRPDefaultResources/HDRenderPipelineAsset.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b1a38ddfef1dd25630a7f1bbb366cda8fa5388a",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/2b1a38ddfef1dd25630a7f1bbb366cda8fa5388a"
+    },
+    {
+      "path": "Assets/Settings/HDRPDefaultResources/HDRenderPipelineGlobalSettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "718e42541c2e67f68ab9ca83f54a55c6feb5ef08",
+      "size": 5685,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/718e42541c2e67f68ab9ca83f54a55c6feb5ef08"
+    },
+    {
+      "path": "Assets/Settings/HDRPDefaultResources/HDRenderPipelineGlobalSettings.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdf3753dc16b503f585881373339d7596feb8b13",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/bdf3753dc16b503f585881373339d7596feb8b13"
+    },
+    {
+      "path": "Assets/Settings/HDRPDefaultResources/SkinDiffusionProfile.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c0c56028c4b5968731ed6b778e88c5f667b63d6b",
+      "size": 720,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/c0c56028c4b5968731ed6b778e88c5f667b63d6b"
+    },
+    {
+      "path": "Assets/Settings/HDRPDefaultResources/SkinDiffusionProfile.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "279b00e547483ecc8c322ba4a1758238a70b3bda",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/279b00e547483ecc8c322ba4a1758238a70b3bda"
+    },
+    {
+      "path": "Assets/Settings/SkyandFogSettingsProfile.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b60f94a79e68134d9a35d1dc6cb0baddfc1e137d",
+      "size": 10307,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b60f94a79e68134d9a35d1dc6cb0baddfc1e137d"
+    },
+    {
+      "path": "Assets/Settings/SkyandFogSettingsProfile.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab1b02842f25977d4bc6cd83054fe8ebf62eae72",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ab1b02842f25977d4bc6cd83054fe8ebf62eae72"
+    },
+    {
+      "path": "Assets/TutorialInfo.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0409d59476d537963d69d6d3532929c6b40d1eb9",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/0409d59476d537963d69d6d3532929c6b40d1eb9"
+    },
+    {
+      "path": "Assets/TutorialInfo",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2c57c8040e3f37da90d7219593d5175e116f1903",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/2c57c8040e3f37da90d7219593d5175e116f1903"
+    },
+    {
+      "path": "Assets/TutorialInfo/Icons.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d19fb9917cafa93fc823aa0d17123e7bf853516",
+      "size": 193,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/1d19fb9917cafa93fc823aa0d17123e7bf853516"
+    },
+    {
+      "path": "Assets/TutorialInfo/Icons",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1151e6d825090fd8ee92e572c49d31c15b9b8083",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/1151e6d825090fd8ee92e572c49d31c15b9b8083"
+    },
+    {
+      "path": "Assets/TutorialInfo/Icons/HDRP.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66c2fa5b74d257606605bd47d61562080388326e",
+      "size": 27200,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/66c2fa5b74d257606605bd47d61562080388326e"
+    },
+    {
+      "path": "Assets/TutorialInfo/Icons/HDRP.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e5b44b25fe74ec2a7da86459e7c1c7dc063c923",
+      "size": 2447,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/3e5b44b25fe74ec2a7da86459e7c1c7dc063c923"
+    },
+    {
+      "path": "Assets/TutorialInfo/Icons/Help_Icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91fa21586231dbb04e158442e6f87dc6c60efbb5",
+      "size": 18108,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/91fa21586231dbb04e158442e6f87dc6c60efbb5"
+    },
+    {
+      "path": "Assets/TutorialInfo/Icons/Help_Icon.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86cc13a8025f6573add0f5072d0115ef7fac0646",
+      "size": 2965,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/86cc13a8025f6573add0f5072d0115ef7fac0646"
+    },
+    {
+      "path": "Assets/TutorialInfo/Layout.wlt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b50a252d4fa7f5c51fde2731ff1122badbeaacd",
+      "size": 15479,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/7b50a252d4fa7f5c51fde2731ff1122badbeaacd"
+    },
+    {
+      "path": "Assets/TutorialInfo/Layout.wlt.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c0c8c77338f2d6510b1ed8ffcdcd416ce271f020",
+      "size": 176,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/c0c8c77338f2d6510b1ed8ffcdcd416ce271f020"
+    },
+    {
+      "path": "Assets/TutorialInfo/Scripts.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02da605bac68c56569973b40eaf20d659e09763d",
+      "size": 193,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/02da605bac68c56569973b40eaf20d659e09763d"
+    },
+    {
+      "path": "Assets/TutorialInfo/Scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e5f43aeda170f811cb0497543d9d808e1fb8162c",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/e5f43aeda170f811cb0497543d9d808e1fb8162c"
+    },
+    {
+      "path": "Assets/TutorialInfo/Scripts/Editor.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f59f09966761eac592bc57ca71143211ed4f7244",
+      "size": 193,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/f59f09966761eac592bc57ca71143211ed4f7244"
+    },
+    {
+      "path": "Assets/TutorialInfo/Scripts/Editor",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1e81b4dc4512e2d59445b30d3381bc50d88681ff",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/1e81b4dc4512e2d59445b30d3381bc50d88681ff"
+    },
+    {
+      "path": "Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad55ecaa457fec5a68095795cb24759d5594e547",
+      "size": 6677,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ad55ecaa457fec5a68095795cb24759d5594e547"
+    },
+    {
+      "path": "Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f03861810b19e4f2f4734c0d146c2c4cb2f2e413",
+      "size": 264,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/f03861810b19e4f2f4734c0d146c2c4cb2f2e413"
+    },
+    {
+      "path": "Assets/TutorialInfo/Scripts/Readme.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95f62693b6368237a9586e6ffce4670961877066",
+      "size": 302,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/95f62693b6368237a9586e6ffce4670961877066"
+    },
+    {
+      "path": "Assets/TutorialInfo/Scripts/Readme.cs.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "935153ff11b0b001e8b54644def3c3a0b98cbdcb",
+      "size": 317,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/935153ff11b0b001e8b54644def3c3a0b98cbdcb"
+    },
+    {
+      "path": "Assets/__Project.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1f19959b1b4debfe178343ba6b89886d19e8399",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/e1f19959b1b4debfe178343ba6b89886d19e8399"
+    },
+    {
+      "path": "Assets/__Project",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "90ebb03a050d4f539cc001e1379f1b483abd08cc",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/90ebb03a050d4f539cc001e1379f1b483abd08cc"
+    },
+    {
+      "path": "Assets/__Project/Animations.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "524a2c0765c17660a5c90a80a2712d2f6a00d433",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/524a2c0765c17660a5c90a80a2712d2f6a00d433"
+    },
+    {
+      "path": "Assets/__Project/Animations",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "147b9fb1fc9869cab7570d152701c9af4f90cdd9",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/147b9fb1fc9869cab7570d152701c9af4f90cdd9"
+    },
+    {
+      "path": "Assets/__Project/Animations/ChairsAnimatorController.controller",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a88a1f53136a8a68c3df465afb226a19484806f",
+      "size": 3449,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/7a88a1f53136a8a68c3df465afb226a19484806f"
+    },
+    {
+      "path": "Assets/__Project/Animations/ChairsAnimatorController.controller.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50f138ae3345cf5a8fc151782ecbd918c40cac9c",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/50f138ae3345cf5a8fc151782ecbd918c40cac9c"
+    },
+    {
+      "path": "Assets/__Project/Animations/DynamicClassroomTimeline.playable",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c375711dfc5566064682d28d70e0a92025794cae",
+      "size": 108754,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/c375711dfc5566064682d28d70e0a92025794cae"
+    },
+    {
+      "path": "Assets/__Project/Animations/DynamicClassroomTimeline.playable.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5811564ff48d77a8690da07cfa2c5a850baa942",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/d5811564ff48d77a8690da07cfa2c5a850baa942"
+    },
+    {
+      "path": "Assets/__Project/Animations/StaticClassroomTimeline.playable",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b82cb84199b2dda7ed499ceb44ad1b3b3a44976d",
+      "size": 67766,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b82cb84199b2dda7ed499ceb44ad1b3b3a44976d"
+    },
+    {
+      "path": "Assets/__Project/Animations/StaticClassroomTimeline.playable.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af3f3aa420b5e73220df4b77f5dde6138c4dc4d5",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/af3f3aa420b5e73220df4b77f5dde6138c4dc4d5"
+    },
+    {
+      "path": "Assets/__Project/Materials.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2eaa4200e89fcdc8a8b6bd92b23f7e2cc7441234",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/2eaa4200e89fcdc8a8b6bd92b23f7e2cc7441234"
+    },
+    {
+      "path": "Assets/__Project/Materials",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0014f8eeeb4e5767cf3086b90c8e30e3a6a5e83b",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/0014f8eeeb4e5767cf3086b90c8e30e3a6a5e83b"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03e42cfb498c559da478ad6188207ca2d97b6c96",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/03e42cfb498c559da478ad6188207ca2d97b6c96"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d5b94e7834f9146c045774fc5cce104f33ab830a",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/d5b94e7834f9146c045774fc5cce104f33ab830a"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/BareMetal.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "021f7fdfa753fade434905068ab5b8e0b42663aa",
+      "size": 8288,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/021f7fdfa753fade434905068ab5b8e0b42663aa"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/BareMetal.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff3493a6862719acb86d4730b6070115a45c846c",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ff3493a6862719acb86d4730b6070115a45c846c"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/BlurredMetal.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "651128f1c5a21bc935f82ed9b5660354c791ecd8",
+      "size": 8358,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/651128f1c5a21bc935f82ed9b5660354c791ecd8"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/BlurredMetal.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "024f7a4f356c04903144152141538ea581248513",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/024f7a4f356c04903144152141538ea581248513"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/BrightWood.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba215a933b6140ad2cb0b13436fd497536ad0f8f",
+      "size": 8717,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ba215a933b6140ad2cb0b13436fd497536ad0f8f"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/BrightWood.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2f7940d4553ca7175a4923748718d5281d3dbc9",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b2f7940d4553ca7175a4923748718d5281d3dbc9"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/BrownWood.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "777a19c70ff6d710c0de4ff5bd340d23212dec1a",
+      "size": 8645,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/777a19c70ff6d710c0de4ff5bd340d23212dec1a"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/BrownWood.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a06663741817c60064ee779245e56a3fdf69d13a",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/a06663741817c60064ee779245e56a3fdf69d13a"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/CeilingLampLight.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9ede1e4fbf3d17cb7394b608a73571699f5a66b",
+      "size": 7986,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b9ede1e4fbf3d17cb7394b608a73571699f5a66b"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/CeilingLampLight.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec6b9362c2fad02077bb265d0fbaf533c653a60a",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ec6b9362c2fad02077bb265d0fbaf533c653a60a"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/CeilingVent.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9fddff70d1dfaf877834f5ab5f52c4f62e64750",
+      "size": 8125,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b9fddff70d1dfaf877834f5ab5f52c4f62e64750"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/CeilingVent.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "963b3f8ddcb874e91cc496dd3ef8789a9af9c559",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/963b3f8ddcb874e91cc496dd3ef8789a9af9c559"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/Cork.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a25e864eb83a3043d805d1aed640b4876077827d",
+      "size": 8284,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/a25e864eb83a3043d805d1aed640b4876077827d"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/Cork.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6543a84246edb69b93caf272335443e7a144f10",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/a6543a84246edb69b93caf272335443e7a144f10"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/DarkWood.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "feb3f31b185945a61bfc3c2e02ce046d9ab47406",
+      "size": 8647,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/feb3f31b185945a61bfc3c2e02ce046d9ab47406"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/DarkWood.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1959530b1b756ffa31f7503b29262218754be15",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/f1959530b1b756ffa31f7503b29262218754be15"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/DeskPlastic.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "903b6f5c5bcf285c8d6c247a78c956a0fb2e7ea2",
+      "size": 8260,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/903b6f5c5bcf285c8d6c247a78c956a0fb2e7ea2"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/DeskPlastic.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8af2c4b99c4e42ab2bf7a3e63add791e14beb52c",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/8af2c4b99c4e42ab2bf7a3e63add791e14beb52c"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/DustbinWireframe.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae203c90cbd12ea35be23d35e8190e90bdfb57bf",
+      "size": 8190,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ae203c90cbd12ea35be23d35e8190e90bdfb57bf"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/DustbinWireframe.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "035e24b065d46cfc1350794220b853c9839a26d0",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/035e24b065d46cfc1350794220b853c9839a26d0"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/FrostedGlass.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54231eadd4d6d087049208c5105b5a4136500654",
+      "size": 8408,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/54231eadd4d6d087049208c5105b5a4136500654"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/FrostedGlass.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43f5220dd13fd763316aef038643e0be7b5f9c02",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/43f5220dd13fd763316aef038643e0be7b5f9c02"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/Glass.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed593f8ffc1d9c2266e81ffffeb5fd2446f79fb0",
+      "size": 8121,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ed593f8ffc1d9c2266e81ffffeb5fd2446f79fb0"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/Glass.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c99105bc9cc2a5dd2d177745850f6c74bf163955",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/c99105bc9cc2a5dd2d177745850f6c74bf163955"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/Leather.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f07c6b64b6253d4ffbfcc1f2a0a8ebd2874b4c4",
+      "size": 8644,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/1f07c6b64b6253d4ffbfcc1f2a0a8ebd2874b4c4"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/Leather.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38157f312e11c16b0ad5a54d5b0b5129ac14a3b0",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/38157f312e11c16b0ad5a54d5b0b5129ac14a3b0"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/MiscTextures.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f46e865b8a96342ef1e8e331c505b10a6e8a8e6",
+      "size": 8639,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/5f46e865b8a96342ef1e8e331c505b10a6e8a8e6"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/MiscTextures.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0798b9e0bed02efbb66da115f78aa17b8633f0f5",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/0798b9e0bed02efbb66da115f78aa17b8633f0f5"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/PaintedPlasterWall.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f9fd9ffb789b4aced9a7d2bfb52c2e118fcf3b4",
+      "size": 8654,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/8f9fd9ffb789b4aced9a7d2bfb52c2e118fcf3b4"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/PaintedPlasterWall.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68be7d5fcb704eee12e91c85ba97d3551408ccd7",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/68be7d5fcb704eee12e91c85ba97d3551408ccd7"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/Plastics.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "162c92f0fa4b923d09ebeaba1063e666323ac26d",
+      "size": 8353,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/162c92f0fa4b923d09ebeaba1063e666323ac26d"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/Plastics.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "22ceee293ebc0d73578094d77f661979771147ef",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/22ceee293ebc0d73578094d77f661979771147ef"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/RadiatorGlossyPaint.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51b03397e27ee939e66a6d5c4d219e29695de9ce",
+      "size": 8508,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/51b03397e27ee939e66a6d5c4d219e29695de9ce"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/RadiatorGlossyPaint.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3edde547fa273a897ee8c51dfa4b4a0cf2e150e",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/a3edde547fa273a897ee8c51dfa4b4a0cf2e150e"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/WallPaint.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6ae527556a8d85f3a8e4ad6a7af5d22c1335ebb",
+      "size": 8646,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/a6ae527556a8d85f3a8e4ad6a7af5d22c1335ebb"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/WallPaint.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "baf85c6a157757c0eb5f89cae81bc0ffecb71292",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/baf85c6a157757c0eb5f89cae81bc0ffecb71292"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/WoodFloor.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87260fb4fab71ffb3fe18e9f89c0dfbafa41edf2",
+      "size": 8298,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/87260fb4fab71ffb3fe18e9f89c0dfbafa41edf2"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/WoodFloor.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4489ecf606246221f7aa91215142ff4f77dd8bb8",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/4489ecf606246221f7aa91215142ff4f77dd8bb8"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/WoodPlanks.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b741962612b5e0630b39c056331d473bd2cf4e8",
+      "size": 8217,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/5b741962612b5e0630b39c056331d473bd2cf4e8"
+    },
+    {
+      "path": "Assets/__Project/Materials/Classroom/WoodPlanks.mat.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9eb1f6f7f19110e6ae1851c9b856e481a188fdea",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/9eb1f6f7f19110e6ae1851c9b856e481a188fdea"
+    },
+    {
+      "path": "Assets/__Project/Meshes.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8219f23750861459ad193498f34a8c0f9e4c7687",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/8219f23750861459ad193498f34a8c0f9e4c7687"
+    },
+    {
+      "path": "Assets/__Project/Meshes",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "485edc5c6ac031910fa3135559d2a2963069b420",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/485edc5c6ac031910fa3135559d2a2963069b420"
+    },
+    {
+      "path": "Assets/__Project/Meshes/ClassroomSceneV4.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9836ff4e347b7fbe0159da44363f8647a12c0464",
+      "size": 19862720,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/9836ff4e347b7fbe0159da44363f8647a12c0464"
+    },
+    {
+      "path": "Assets/__Project/Meshes/ClassroomSceneV4.fbx.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c69b6cae02bea9e6d1dc282dac94cd8761770b28",
+      "size": 6402,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/c69b6cae02bea9e6d1dc282dac94cd8761770b28"
+    },
+    {
+      "path": "Assets/__Project/Meshes/ClassroomSceneV4_ChairsAnimation.fbx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35f2c7f1c0f5befbec9ffbe1d09a207e86898c89",
+      "size": 7302480,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/35f2c7f1c0f5befbec9ffbe1d09a207e86898c89"
+    },
+    {
+      "path": "Assets/__Project/Meshes/ClassroomSceneV4_ChairsAnimation.fbx.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bea0fe2cea5326494a90bda336a742fbe1382964",
+      "size": 5352,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/bea0fe2cea5326494a90bda336a742fbe1382964"
+    },
+    {
+      "path": "Assets/__Project/Settings.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3c81192cf0af1bc22875d2ed1c6af43e18164da",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/a3c81192cf0af1bc22875d2ed1c6af43e18164da"
+    },
+    {
+      "path": "Assets/__Project/Settings",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "59aedd0f2b679383ba5c0f6de4374026ab3b4b3d",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/59aedd0f2b679383ba5c0f6de4374026ab3b4b3d"
+    },
+    {
+      "path": "Assets/__Project/Settings/Classroom Volume Profile.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f0c4b8a8afb19f28cc9bcd6ce0f3da10e0799c8",
+      "size": 16903,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/5f0c4b8a8afb19f28cc9bcd6ce0f3da10e0799c8"
+    },
+    {
+      "path": "Assets/__Project/Settings/Classroom Volume Profile.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3aa5165b42b550eb1de4d7d6dfbad9753158e8d8",
+      "size": 182,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/3aa5165b42b550eb1de4d7d6dfbad9753158e8d8"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomDynamic.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a64e463ebc5902dd55e16a9d4ae3a8e8c24b53d2",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/a64e463ebc5902dd55e16a9d4ae3a8e8c24b53d2"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomDynamic",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "75ed7d7487fafac233a2f144025eeecaa3c548c2",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/75ed7d7487fafac233a2f144025eeecaa3c548c2"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomDynamic/LightingData.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b213990021e2c36214770f6b41e490f127a1c85",
+      "size": 53008,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/6b213990021e2c36214770f6b41e490f127a1c85"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomDynamic/LightingData.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76b908af38a5061b8ab89c92760f5c581332fb9b",
+      "size": 190,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/76b908af38a5061b8ab89c92760f5c581332fb9b"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomDynamic/ProbeVolumeData.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f2a9bd017764fed072e7dd2ceddc6e727d76aca",
+      "size": 481868,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/0f2a9bd017764fed072e7dd2ceddc6e727d76aca"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomDynamic/ProbeVolumeData.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4373b309d94190fed3f40e478e9f1ad44ce35f4",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/e4373b309d94190fed3f40e478e9f1ad44ce35f4"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomDynamic/ReflectionProbe-0.exr",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed440c80824d970c2098032b55a8b705a51943ee",
+      "size": 24141352,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ed440c80824d970c2098032b55a8b705a51943ee"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomDynamic/ReflectionProbe-0.exr.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16ff7360828497b6393e6d460306b12a27131c44",
+      "size": 2170,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/16ff7360828497b6393e6d460306b12a27131c44"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomDynamic/ReflectionProbe-1.exr",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bb0ba54f383ed86dab6a61400be2d8fa8b01fa7",
+      "size": 22425327,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/7bb0ba54f383ed86dab6a61400be2d8fa8b01fa7"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomDynamic/ReflectionProbe-1.exr.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af0861885098bed36e4186686fd036be5b7bcc01",
+      "size": 2170,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/af0861885098bed36e4186686fd036be5b7bcc01"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomDynamic_Profiles.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f70539da8172855511322518f1d996eaabe3e914",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/f70539da8172855511322518f1d996eaabe3e914"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomDynamic_Profiles",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1957d10d51fe54dba54eafc31e04304640968791",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/1957d10d51fe54dba54eafc31e04304640968791"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomDynamic_Profiles/CM vcam8 Profile.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e85d1bab7f3d9ef3ab80724d9c67b1fcc6d5c1ae",
+      "size": 1676,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/e85d1bab7f3d9ef3ab80724d9c67b1fcc6d5c1ae"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomDynamic_Profiles/CM vcam8 Profile.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72bd39f59c1e98587231f84525d3dbe8abbb13c6",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/72bd39f59c1e98587231f84525d3dbe8abbb13c6"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomDynamic_Profiles/CM vcam9 Profile.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b71b66350ddc27efb0c32f9d2780fb091c52d0c",
+      "size": 1678,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/4b71b66350ddc27efb0c32f9d2780fb091c52d0c"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomDynamic_Profiles/CM vcam9 Profile.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7504f2bd095a2f7a6ba8d54a4e6559721ee99a88",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/7504f2bd095a2f7a6ba8d54a4e6559721ee99a88"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14b4a3ad493aec6f646e9282b9db4f6265e0383f",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/14b4a3ad493aec6f646e9282b9db4f6265e0383f"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9165ffbbf98a48be17667dc180bc8d993384fec5",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/9165ffbbf98a48be17667dc180bc8d993384fec5"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic/LightingData.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dfabd5f59837c002940fde2af805a9c39e6ba6fa",
+      "size": 43600,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/dfabd5f59837c002940fde2af805a9c39e6ba6fa"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic/LightingData.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9db55aa365ebd3bd44fd9862270f8fb6987f2e9b",
+      "size": 190,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/9db55aa365ebd3bd44fd9862270f8fb6987f2e9b"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic/ProbeVolumeData.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "538fc748d393032b46a4f898e0770528a47a2f27",
+      "size": 481868,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/538fc748d393032b46a4f898e0770528a47a2f27"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic/ProbeVolumeData.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4bb00f5d5ac690a95c3242f5fa052b4713954d8b",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/4bb00f5d5ac690a95c3242f5fa052b4713954d8b"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic/ReflectionProbe-0.exr",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81ce566e76822ab56484b02bcb2368117d050c0c",
+      "size": 24471464,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/81ce566e76822ab56484b02bcb2368117d050c0c"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic/ReflectionProbe-0.exr.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25afa7450031c9336d4727fb89bed48dd0489c3a",
+      "size": 2170,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/25afa7450031c9336d4727fb89bed48dd0489c3a"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic/ReflectionProbe-1.exr",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1593c3edd58e16d656c0c928219f5d0bd05bd88b",
+      "size": 13007458,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/1593c3edd58e16d656c0c928219f5d0bd05bd88b"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic/ReflectionProbe-1.exr.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67a428aae75567456203dfba34fc5d0b72e8d1aa",
+      "size": 2170,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/67a428aae75567456203dfba34fc5d0b72e8d1aa"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic_Profiles.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45cdefaeff9b9d346b7d6ac8e21882e3073052b4",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/45cdefaeff9b9d346b7d6ac8e21882e3073052b4"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic_Profiles",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6e446274be1cf898593e1b23ce685452b2101fda",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/6e446274be1cf898593e1b23ce685452b2101fda"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic_Profiles/CM vcam1 Profile.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6e145243b0d46fef8b0b61959f254a725af0a67",
+      "size": 1678,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b6e145243b0d46fef8b0b61959f254a725af0a67"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic_Profiles/CM vcam1 Profile.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4946d60b2d4d34135397217300a85e2369b0934",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/a4946d60b2d4d34135397217300a85e2369b0934"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic_Profiles/CM vcam2 Profile.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c08f27f980f59f8307a4e38a8f0568ccc2d9933b",
+      "size": 1676,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/c08f27f980f59f8307a4e38a8f0568ccc2d9933b"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic_Profiles/CM vcam2 Profile.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34afef37aba608617bde5916c6e640956b4de204",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/34afef37aba608617bde5916c6e640956b4de204"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic_Profiles/CM vcam3 Profile.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4596cf2875b6493227249a422a136e1a00316d55",
+      "size": 1676,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/4596cf2875b6493227249a422a136e1a00316d55"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic_Profiles/CM vcam3 Profile.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58b7dbbcaf3e1fd03333ba9449e250b5d15712b9",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/58b7dbbcaf3e1fd03333ba9449e250b5d15712b9"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic_Profiles/CM vcam4 Profile.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa563c5a06780270c8073768107c7e8b69f063ce",
+      "size": 1673,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/aa563c5a06780270c8073768107c7e8b69f063ce"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic_Profiles/CM vcam4 Profile.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3abea0438d11367bad3a6dfa8cc62e8ec6265a71",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/3abea0438d11367bad3a6dfa8cc62e8ec6265a71"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic_Profiles/CM vcam5 Profile.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34139a1a4150c9a1b902fa60a551f81e73df3552",
+      "size": 1676,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/34139a1a4150c9a1b902fa60a551f81e73df3552"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic_Profiles/CM vcam5 Profile.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3651298b86a16e924241cc8df771ff723afbf51",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/a3651298b86a16e924241cc8df771ff723afbf51"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic_Profiles/CM vcam6 Profile.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff5f4709d449ee3194cdde2fcce62fdd809d63af",
+      "size": 1676,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ff5f4709d449ee3194cdde2fcce62fdd809d63af"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic_Profiles/CM vcam6 Profile.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b599486139fb3bda9b12f70317aff92edd491b24",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b599486139fb3bda9b12f70317aff92edd491b24"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic_Profiles/CM vcam7 Profile.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb4c5a730bd0838f46593565e7a53f6d0ff74567",
+      "size": 1676,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/bb4c5a730bd0838f46593565e7a53f6d0ff74567"
+    },
+    {
+      "path": "Assets/__Project/Settings/ClassroomStatic_Profiles/CM vcam7 Profile.asset.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b73886953e1f9ae63a7bd6db11b90cf26741580d",
+      "size": 189,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b73886953e1f9ae63a7bd6db11b90cf26741580d"
+    },
+    {
+      "path": "Assets/__Project/Shaders.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8c93ffa9e6f089689630a3da756125f6d48dab1",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b8c93ffa9e6f089689630a3da756125f6d48dab1"
+    },
+    {
+      "path": "Assets/__Project/Shaders",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0d3cfd1653082fc1ee08dd90efff82506bdae8fc",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/0d3cfd1653082fc1ee08dd90efff82506bdae8fc"
+    },
+    {
+      "path": "Assets/__Project/Shaders/SG-HDRP-Lit.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2262887592657564f38e5811b9394415595fb6c7",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/2262887592657564f38e5811b9394415595fb6c7"
+    },
+    {
+      "path": "Assets/__Project/Shaders/SG-HDRP-Lit",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "58116d044bf039dd1eb79a2a8afec0479fc6aaef",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/58116d044bf039dd1eb79a2a8afec0479fc6aaef"
+    },
+    {
+      "path": "Assets/__Project/Shaders/SG-HDRP-Lit/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0210746b1a539bc60d5eade62737b686d0545814",
+      "size": 430,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/0210746b1a539bc60d5eade62737b686d0545814"
+    },
+    {
+      "path": "Assets/__Project/Shaders/SG-HDRP-Lit/HDRPDetailAlbedoBlend.shadersubgraph",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fd48ee3a9f39d2ec0bfe45f153d010add525390",
+      "size": 61531,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/7fd48ee3a9f39d2ec0bfe45f153d010add525390"
+    },
+    {
+      "path": "Assets/__Project/Shaders/SG-HDRP-Lit/HDRPDetailAlbedoBlend.shadersubgraph.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b1b8107edb5b7ee2347f9c1fd2f15c63ee5ab34",
+      "size": 281,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/5b1b8107edb5b7ee2347f9c1fd2f15c63ee5ab34"
+    },
+    {
+      "path": "Assets/__Project/Shaders/SG-HDRP-Lit/HDRPDetailSmoothnessBlend.shadersubgraph",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef9d40b2757213ee36e488477dda2165c73eb65d",
+      "size": 44512,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ef9d40b2757213ee36e488477dda2165c73eb65d"
+    },
+    {
+      "path": "Assets/__Project/Shaders/SG-HDRP-Lit/HDRPDetailSmoothnessBlend.shadersubgraph.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "543db43f92ad4cf5c0f4628821c448e00e67f918",
+      "size": 281,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/543db43f92ad4cf5c0f4628821c448e00e67f918"
+    },
+    {
+      "path": "Assets/__Project/Shaders/SG-HDRP-Lit/Lit_Graph.shadergraph",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d681f608bce8a0fc03a89deee418a2ae7f444048",
+      "size": 283347,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/d681f608bce8a0fc03a89deee418a2ae7f444048"
+    },
+    {
+      "path": "Assets/__Project/Shaders/SG-HDRP-Lit/Lit_Graph.shadergraph.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "634a7f4425b1f4e4b013accedbf3ec632cf02237",
+      "size": 280,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/634a7f4425b1f4e4b013accedbf3ec632cf02237"
+    },
+    {
+      "path": "Assets/__Project/Shaders/SG-HDRP-Lit/Lit_Graph_VertexColors.shadergraph",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89bf550167438f9a0fabe08e4a3357953fcae247",
+      "size": 300228,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/89bf550167438f9a0fabe08e4a3357953fcae247"
+    },
+    {
+      "path": "Assets/__Project/Shaders/SG-HDRP-Lit/Lit_Graph_VertexColors.shadergraph.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47b79b6b2f01f5b23092bcf2ec4cf02266c5d83c",
+      "size": 280,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/47b79b6b2f01f5b23092bcf2ec4cf02266c5d83c"
+    },
+    {
+      "path": "Assets/__Project/Shaders/SG-HDRP-Lit/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6eb54b7c5dc8a84f626e6ad621bab0194578dd8a",
+      "size": 343,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/6eb54b7c5dc8a84f626e6ad621bab0194578dd8a"
+    },
+    {
+      "path": "Assets/__Project/Shaders/SG-HDRP-Lit/README.md.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b7b311c1d145aa6e56686de5743235836802938",
+      "size": 158,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/7b7b311c1d145aa6e56686de5743235836802938"
+    },
+    {
+      "path": "Assets/__Project/Shaders/SG-HDRP-Lit/UVSelection.shadersubgraph",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b5daffa209cc33366ef62a2764ab3c8b2964477",
+      "size": 81670,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/0b5daffa209cc33366ef62a2764ab3c8b2964477"
+    },
+    {
+      "path": "Assets/__Project/Shaders/SG-HDRP-Lit/UVSelection.shadersubgraph.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00f476e26db2ce00baef7c1f90c490620577b03a",
+      "size": 281,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/00f476e26db2ce00baef7c1f90c490620577b03a"
+    },
+    {
+      "path": "Assets/__Project/Textures.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99a7a75d22571bd2f360a71ea77772a1cfe6d822",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/99a7a75d22571bd2f360a71ea77772a1cfe6d822"
+    },
+    {
+      "path": "Assets/__Project/Textures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bc4c027c98812a6d62e25e0592c32b535ba1f513",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/bc4c027c98812a6d62e25e0592c32b535ba1f513"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "37d3ac540fe17a6e4ff8f855f4e43742bf5a2d20",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/37d3ac540fe17a6e4ff8f855f4e43742bf5a2d20"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5f8729631eb6d09f60b52ef21089619c521ba924",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/5f8729631eb6d09f60b52ef21089619c521ba924"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BareMetal.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67f4a697b6075a78135ee6e79456962a14eac05b",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/67f4a697b6075a78135ee6e79456962a14eac05b"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BareMetal",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "eeeb0227582546231000ae75194652317bd1882d",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/eeeb0227582546231000ae75194652317bd1882d"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BareMetal/BareMetal_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "23144973d2a8e7dd152464dc2ee1e506b8000910",
+      "size": 2029385,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/23144973d2a8e7dd152464dc2ee1e506b8000910"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BareMetal/BareMetal_BaseColor.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b412afdc7101e8ea2d3c1ad5f94e0fd26f6e983",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/5b412afdc7101e8ea2d3c1ad5f94e0fd26f6e983"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BareMetal/BareMetal_DetailMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f4c489d9a21bb3b97a40e5de8dd6500b460739e",
+      "size": 2552106,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/8f4c489d9a21bb3b97a40e5de8dd6500b460739e"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BareMetal/BareMetal_DetailMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "862670fd41a62619f358ececcf7463f8f40c16a9",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/862670fd41a62619f358ececcf7463f8f40c16a9"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BareMetal/BareMetal_MaskMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26e4e96a332f5a0aae17673f5adfa4d0495daa2e",
+      "size": 1582969,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/26e4e96a332f5a0aae17673f5adfa4d0495daa2e"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BareMetal/BareMetal_MaskMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "155c781636c938717523603aae9bd6f04cea8a78",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/155c781636c938717523603aae9bd6f04cea8a78"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BareMetal/BareMetal_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1133f12c559c9232dbfe62d5dd914a631abbe95",
+      "size": 1605137,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/f1133f12c559c9232dbfe62d5dd914a631abbe95"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BareMetal/BareMetal_Normal.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b5c1aa4e86cd68dbfeacc504ba84b3aabf2062ba",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b5c1aa4e86cd68dbfeacc504ba84b3aabf2062ba"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrightWood.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85875ec499b373419ee33a2d3df4a405889f13d9",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/85875ec499b373419ee33a2d3df4a405889f13d9"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrightWood",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e67971f79c5f24a7e068638af216f569e679df23",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/e67971f79c5f24a7e068638af216f569e679df23"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrightWood/BrightWood_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5e4b7425c9570dbe96a72030cb8c17ef2a3f240",
+      "size": 937681,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/f5e4b7425c9570dbe96a72030cb8c17ef2a3f240"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrightWood/BrightWood_BaseColor.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9b67b0766e5cf697a0f76cdee519a688e6f1b41",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/d9b67b0766e5cf697a0f76cdee519a688e6f1b41"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrightWood/BrightWood_DetailMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4814f37e55d398f89750a9b93e2e9fdf4b4ce62c",
+      "size": 1493411,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/4814f37e55d398f89750a9b93e2e9fdf4b4ce62c"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrightWood/BrightWood_DetailMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "502d7402c00c739bcdef9049408da8f27378e7cc",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/502d7402c00c739bcdef9049408da8f27378e7cc"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrightWood/BrightWood_MaskMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c64ce9b5f5641668b7e5b1d96816db9760eb0fdc",
+      "size": 1017841,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/c64ce9b5f5641668b7e5b1d96816db9760eb0fdc"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrightWood/BrightWood_MaskMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf36e0bdfda4ebe7d838db44b5ee3d56a5819ec7",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/cf36e0bdfda4ebe7d838db44b5ee3d56a5819ec7"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrightWood/BrightWood_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3b8bdb55d10f45ba599792d823e0c607606aa68",
+      "size": 739759,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/a3b8bdb55d10f45ba599792d823e0c607606aa68"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrightWood/BrightWood_Normal.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2415431e52c9811f6c4945392d756b053ebad7ed",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/2415431e52c9811f6c4945392d756b053ebad7ed"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrownWood.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d91c3765da74e0a1b45bbcb0e7a3aa6049d9855d",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/d91c3765da74e0a1b45bbcb0e7a3aa6049d9855d"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrownWood",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e2a3238c6d04139b59866602a264194471307998",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/e2a3238c6d04139b59866602a264194471307998"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrownWood/BrownWood_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9f991d6f641d1a33a2a85205221a6384a51b905",
+      "size": 1058980,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/d9f991d6f641d1a33a2a85205221a6384a51b905"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrownWood/BrownWood_BaseColor.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6bf5ea1dc897219503c36588a89bde87b71e4b8d",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/6bf5ea1dc897219503c36588a89bde87b71e4b8d"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrownWood/BrownWood_DetailMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0cca60f9fd0df22875ecb49aa3ab83af8df75403",
+      "size": 1529081,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/0cca60f9fd0df22875ecb49aa3ab83af8df75403"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrownWood/BrownWood_DetailMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65ac980a82098a2f2bfc6ef818882e2acf35a6fc",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/65ac980a82098a2f2bfc6ef818882e2acf35a6fc"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrownWood/BrownWood_MaskMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da0ac77ef50542c96954da3207dea74b8c05341c",
+      "size": 1288921,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/da0ac77ef50542c96954da3207dea74b8c05341c"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrownWood/BrownWood_MaskMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e792604834f2d2730ca07a29f30b3781d40492a",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/7e792604834f2d2730ca07a29f30b3781d40492a"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrownWood/BrownWood_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ddf36c8cc04a6c0a4168de334ca4a5e2959fdd8c",
+      "size": 516713,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ddf36c8cc04a6c0a4168de334ca4a5e2959fdd8c"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/BrownWood/BrownWood_Normal.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa7d24d8267da49f1267d2f41ec31cdef4169efd",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/fa7d24d8267da49f1267d2f41ec31cdef4169efd"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Cork.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "07cd0a6d6cf6fae6383e00092a8415f541038ccc",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/07cd0a6d6cf6fae6383e00092a8415f541038ccc"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Cork",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a639a5664dace647bd4ee116fba1e33eed34cc9f",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/a639a5664dace647bd4ee116fba1e33eed34cc9f"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Cork/Cork_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb3d70d4a8366e5256762b396e097ebdf74595ca",
+      "size": 1791562,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/fb3d70d4a8366e5256762b396e097ebdf74595ca"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Cork/Cork_BaseColor.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af898f08cbf19258c4600e903d28ee9e172ababa",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/af898f08cbf19258c4600e903d28ee9e172ababa"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Cork/Cork_DetailMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c7821bfb34c9ccc307346997ae1d6400dd42c52",
+      "size": 3260351,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/5c7821bfb34c9ccc307346997ae1d6400dd42c52"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Cork/Cork_DetailMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a266312dd80e4237d2f4609c686c86b677a5364c",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/a266312dd80e4237d2f4609c686c86b677a5364c"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Cork/Cork_MaskMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b328f5a24eee55ff7424070010aec69e99c2a733",
+      "size": 2200402,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b328f5a24eee55ff7424070010aec69e99c2a733"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Cork/Cork_MaskMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dc27cff854362130e2a6ae3099145eb87dc5d74b",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/dc27cff854362130e2a6ae3099145eb87dc5d74b"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Cork/Cork_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82600565d0ccbfb2834deb92c7be9bcb09929fb3",
+      "size": 2153914,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/82600565d0ccbfb2834deb92c7be9bcb09929fb3"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Cork/Cork_Normal.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "874a8503c9740ae31e9e7a891297203a2f430f6f",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/874a8503c9740ae31e9e7a891297203a2f430f6f"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/DarkWood.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6bb1b4fb15f85e3fe9c0a2a0efc5ef754a481dd4",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/6bb1b4fb15f85e3fe9c0a2a0efc5ef754a481dd4"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/DarkWood",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "75370be39c62beaa045b99d076f3d2b7f3b6615b",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/75370be39c62beaa045b99d076f3d2b7f3b6615b"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/DarkWood/DarkWood_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85cc9ff70193c59fb210f3cafaaac5d922bf6771",
+      "size": 994872,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/85cc9ff70193c59fb210f3cafaaac5d922bf6771"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/DarkWood/DarkWood_BaseColor.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80ab3fb6002c440706156879e29d963d91d4b9eb",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/80ab3fb6002c440706156879e29d963d91d4b9eb"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/DarkWood/DarkWood_DetailMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d19ab5ed79560caea08c828e88445b1f7a138181",
+      "size": 2097733,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/d19ab5ed79560caea08c828e88445b1f7a138181"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/DarkWood/DarkWood_DetailMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8a1be8d27156fc3f20ad66ffeb13e505e2f97dd",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/f8a1be8d27156fc3f20ad66ffeb13e505e2f97dd"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/DarkWood/DarkWood_MaskMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f90a3299ea199f6210306fa3a81f35f24549b70",
+      "size": 1422108,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/7f90a3299ea199f6210306fa3a81f35f24549b70"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/DarkWood/DarkWood_MaskMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "218a67127baa3f37c3aab7eb5bba217be46268e4",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/218a67127baa3f37c3aab7eb5bba217be46268e4"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/DarkWood/DarkWood_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d02c094f1c76880c30ffeaa865bf25cabe3fef89",
+      "size": 1001508,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/d02c094f1c76880c30ffeaa865bf25cabe3fef89"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/DarkWood/DarkWood_Normal.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5bfdaf18754b6fdb827a21a282ec1808fd9952c8",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/5bfdaf18754b6fdb827a21a282ec1808fd9952c8"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Glass.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81768798cabb3ea63a91455ba94870a27376e339",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/81768798cabb3ea63a91455ba94870a27376e339"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Glass",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "24e851799a7a1c95e4dc41c78e150ea7b565104b",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/24e851799a7a1c95e4dc41c78e150ea7b565104b"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Glass/Glass_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1452a16a70f931b62c88e98ddc325c0f64e92a78",
+      "size": 6356793,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/1452a16a70f931b62c88e98ddc325c0f64e92a78"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Glass/Glass_BaseColor.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59d795e4074d89dc3638b5f6bc4208debb1048e6",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/59d795e4074d89dc3638b5f6bc4208debb1048e6"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Glass/Glass_DetailMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "430490ff58e71cebbee36f9cf6e7ba2eb26f4146",
+      "size": 5994993,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/430490ff58e71cebbee36f9cf6e7ba2eb26f4146"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Glass/Glass_DetailMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4cd08178099d1c038184afc953447ab72413f00",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/f4cd08178099d1c038184afc953447ab72413f00"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Glass/Glass_MaskMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe6916114c5b79a1e95c14b3c069cd403efc3e0b",
+      "size": 2627320,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/fe6916114c5b79a1e95c14b3c069cd403efc3e0b"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Glass/Glass_MaskMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cced344aa1e6d5be4d14648aceb6c2f06c02a2da",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/cced344aa1e6d5be4d14648aceb6c2f06c02a2da"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Glass/Glass_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1213f08f630a03400ec0d1f3373b12d6be7ac886",
+      "size": 3685929,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/1213f08f630a03400ec0d1f3373b12d6be7ac886"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Glass/Glass_Normal.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c253a0dd5c76d5805841d01418096c8d422fe08",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/8c253a0dd5c76d5805841d01418096c8d422fe08"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Leather.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "256e5ebc1d407778cc98c6a1196aadcd052570fc",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/256e5ebc1d407778cc98c6a1196aadcd052570fc"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Leather",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "678b222bb27e0cf4af87a541c0943ce6401d4990",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/678b222bb27e0cf4af87a541c0943ce6401d4990"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Leather/Leather_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2ca9d79f259e0543891cc0d13f0da1355b25ddc",
+      "size": 1403104,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b2ca9d79f259e0543891cc0d13f0da1355b25ddc"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Leather/Leather_BaseColor.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97bd57301ba092343840c9bba8aa99a09686fbad",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/97bd57301ba092343840c9bba8aa99a09686fbad"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Leather/Leather_DetailMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58078e6e39363dc0aa0d51a83888a4bdfc8f4708",
+      "size": 1954597,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/58078e6e39363dc0aa0d51a83888a4bdfc8f4708"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Leather/Leather_DetailMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "829f4ff0548c55831f870387600073c2064b49d6",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/829f4ff0548c55831f870387600073c2064b49d6"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Leather/Leather_MaskMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea0e4ac6e1fa3405fd9ddd6b7cee3f62e43d3d2f",
+      "size": 1477673,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ea0e4ac6e1fa3405fd9ddd6b7cee3f62e43d3d2f"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Leather/Leather_MaskMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20476fbc8aed77559cee7c31c7451416d2e1eb65",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/20476fbc8aed77559cee7c31c7451416d2e1eb65"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Leather/Leather_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d51e1ca0fc9f14b18d600f9d78f372bd6b2fd4ce",
+      "size": 831838,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/d51e1ca0fc9f14b18d600f9d78f372bd6b2fd4ce"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/Leather/Leather_Normal.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c42fbe80099908582bdd6ffae694fee395858fd4",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/c42fbe80099908582bdd6ffae694fee395858fd4"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/MiscTextures.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20141f8d3aec963f84a52efa10ea6a84ed07d415",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/20141f8d3aec963f84a52efa10ea6a84ed07d415"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/MiscTextures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a36dcb82c56f9a722c5c1231bcec272940e1c12b",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/a36dcb82c56f9a722c5c1231bcec272940e1c12b"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/MiscTextures/MiscTextures_BaseMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3685ca963a76e5ebdcbedf48771e96a7ba9e9067",
+      "size": 15415717,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/3685ca963a76e5ebdcbedf48771e96a7ba9e9067"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/MiscTextures/MiscTextures_BaseMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "feb410f29f45c7e1fbb547f905244a89a3d19a10",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/feb410f29f45c7e1fbb547f905244a89a3d19a10"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/MiscTextures/MiscTextures_MaskMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5658553181974f1ad4d056687aac12fd07bd7fa0",
+      "size": 7718929,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/5658553181974f1ad4d056687aac12fd07bd7fa0"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/MiscTextures/MiscTextures_MaskMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "454a038d17a356d8a5c3d4c15c181d7959ad58cf",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/454a038d17a356d8a5c3d4c15c181d7959ad58cf"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/MiscTextures/MiscTextures_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9841b220732275da57350a79cfd53fd1e0223cd7",
+      "size": 9968457,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/9841b220732275da57350a79cfd53fd1e0223cd7"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/MiscTextures/MiscTextures_Normal.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f82b616c96da22460a1bf7d3fd2a15611ac40f2",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/0f82b616c96da22460a1bf7d3fd2a15611ac40f2"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/PaintedPlasterWall.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7aaf75b2cf7d12634c41dfca6d4c7ce5ad355bab",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/7aaf75b2cf7d12634c41dfca6d4c7ce5ad355bab"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/PaintedPlasterWall",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1be64a411e8c7283cfeba638feaebcd38731a958",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/1be64a411e8c7283cfeba638feaebcd38731a958"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/PaintedPlasterWall/PaintedPlasterWall_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77d9cad5e12d151299f3facc011d5ae3e94b7a73",
+      "size": 2607507,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/77d9cad5e12d151299f3facc011d5ae3e94b7a73"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/PaintedPlasterWall/PaintedPlasterWall_BaseColor.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a669ba31f278671176a1c7120af96c37f5c9851",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/8a669ba31f278671176a1c7120af96c37f5c9851"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/PaintedPlasterWall/PaintedPlasterWall_DetailMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "341e67a4d82faff294e6850df7c17a0194aac7af",
+      "size": 6359856,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/341e67a4d82faff294e6850df7c17a0194aac7af"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/PaintedPlasterWall/PaintedPlasterWall_DetailMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9679b15a620527a8651c796f2b19d04e607b8946",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/9679b15a620527a8651c796f2b19d04e607b8946"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/PaintedPlasterWall/PaintedPlasterWall_MaskMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40cd2b767e7079a16f075b62a96ab6c22bf8aeb2",
+      "size": 5385246,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/40cd2b767e7079a16f075b62a96ab6c22bf8aeb2"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/PaintedPlasterWall/PaintedPlasterWall_MaskMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52ccc58fdadc7dbdb06612f9ea3c057bac9c35da",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/52ccc58fdadc7dbdb06612f9ea3c057bac9c35da"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/PaintedPlasterWall/PaintedPlasterWall_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed1a5d556ebb8bda7716be66db67e23d02192c5d",
+      "size": 3583358,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ed1a5d556ebb8bda7716be66db67e23d02192c5d"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/PaintedPlasterWall/PaintedPlasterWall_Normal.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5de20ba5a1af6ea6fd9108d20eb11a35c91a014",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/c5de20ba5a1af6ea6fd9108d20eb11a35c91a014"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WallPaint.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "df72f18175dbe24172e5bac180b30d1cf5d99d04",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/df72f18175dbe24172e5bac180b30d1cf5d99d04"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WallPaint",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2d6fd8af051c9bf57dd1dd57f056c0b5589139ef",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/2d6fd8af051c9bf57dd1dd57f056c0b5589139ef"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WallPaint/WallPaint_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26b42ae07bbb1acc7db52b911bb89965bf32cdde",
+      "size": 4900451,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/26b42ae07bbb1acc7db52b911bb89965bf32cdde"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WallPaint/WallPaint_BaseColor.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac082167a90b628716fe59a2accad61f0d01aafc",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ac082167a90b628716fe59a2accad61f0d01aafc"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WallPaint/WallPaint_DetailMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0531ef5da13f4099328a3c34ad24205a291f673",
+      "size": 8275311,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/e0531ef5da13f4099328a3c34ad24205a291f673"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WallPaint/WallPaint_DetailMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dba3f891622dc0f193f732c235f8252d427cb879",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/dba3f891622dc0f193f732c235f8252d427cb879"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WallPaint/WallPaint_MaskMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9a29450e0bb6699f642c6bb815e24264d444068",
+      "size": 6216474,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/e9a29450e0bb6699f642c6bb815e24264d444068"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WallPaint/WallPaint_MaskMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3de704df903e4ecc3d6dcc90e12acd63e565af1",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/a3de704df903e4ecc3d6dcc90e12acd63e565af1"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WallPaint/WallPaint_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "066671742f758d165a3e578a7dd2df2e776bd096",
+      "size": 4921672,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/066671742f758d165a3e578a7dd2df2e776bd096"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WallPaint/WallPaint_Normal.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ae651e30f8571bcc941a465b4f6a63df66b7480",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/3ae651e30f8571bcc941a465b4f6a63df66b7480"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodFloor.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cda1e7bf77fdecc36ece58ace1251a6d67a8bb8d",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/cda1e7bf77fdecc36ece58ace1251a6d67a8bb8d"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodFloor",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "54a0da07d7f69f0b9f5bcb886ae2dc21029772ca",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/54a0da07d7f69f0b9f5bcb886ae2dc21029772ca"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodFloor/WoodFloor_BaseColor.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dc6d928aee8b6733b0874f45fe2d67e1d36f20ac",
+      "size": 4356660,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/dc6d928aee8b6733b0874f45fe2d67e1d36f20ac"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodFloor/WoodFloor_BaseColor.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d6cfe984a41fe8bf2e1906fa3225d0ebce8256c5",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/d6cfe984a41fe8bf2e1906fa3225d0ebce8256c5"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodFloor/WoodFloor_DetailMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24a5437a5f7c1b8fd7f325fd659129ae22ab017b",
+      "size": 7429294,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/24a5437a5f7c1b8fd7f325fd659129ae22ab017b"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodFloor/WoodFloor_DetailMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "865c34740f6d4b798507f88f85ca80ccf3d0927e",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/865c34740f6d4b798507f88f85ca80ccf3d0927e"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodFloor/WoodFloor_MaskMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3400618c4d3ab34f409ae09248fd4a532ab9611a",
+      "size": 5281693,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/3400618c4d3ab34f409ae09248fd4a532ab9611a"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodFloor/WoodFloor_MaskMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be2519e21454924a76b7e38f8f9f2bcb8e270eee",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/be2519e21454924a76b7e38f8f9f2bcb8e270eee"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodFloor/WoodFloor_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7b28f0a9c100ac555727e8f7507420aeff42046",
+      "size": 4108997,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/c7b28f0a9c100ac555727e8f7507420aeff42046"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodFloor/WoodFloor_Normal.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "064e225891123c41b9bc155b7ec72ec8484f6edd",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/064e225891123c41b9bc155b7ec72ec8484f6edd"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodPlanks.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "470ab92ce5db42af38fd175090275db9230af288",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/470ab92ce5db42af38fd175090275db9230af288"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodPlanks",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bf65df88a4c67a338e48435acd91694c4d21f2f7",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/bf65df88a4c67a338e48435acd91694c4d21f2f7"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodPlanks/WoodPlanks_BaseMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2abe11c1220500f358315be2ee79701719a6597",
+      "size": 1257756,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b2abe11c1220500f358315be2ee79701719a6597"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodPlanks/WoodPlanks_BaseMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25a1479b426d8c7a486bb385a95e163eff775017",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/25a1479b426d8c7a486bb385a95e163eff775017"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodPlanks/WoodPlanks_MaskMap.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85be42ab37b9c2727c6d813dad29193e1b37de6a",
+      "size": 3056456,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/85be42ab37b9c2727c6d813dad29193e1b37de6a"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodPlanks/WoodPlanks_MaskMap.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f048ba72c345267f97a2a1c979361cbe7483005",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/0f048ba72c345267f97a2a1c979361cbe7483005"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodPlanks/WoodPlanks_Normal.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c492be8e1e574880c0d66fc8f55cf53e608d1208",
+      "size": 5243879,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/c492be8e1e574880c0d66fc8f55cf53e608d1208"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/WoodPlanks/WoodPlanks_Normal.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e59fdd60ec0be346438b6d39247d31fbb6547b84",
+      "size": 2828,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/e59fdd60ec0be346438b6d39247d31fbb6547b84"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/dustbin_wireframe.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "455b9575115be8f198856e0a206aedd27dde4779",
+      "size": 8405880,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/455b9575115be8f198856e0a206aedd27dde4779"
+    },
+    {
+      "path": "Assets/__Project/Textures/Classroom/dustbin_wireframe.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff9c30a149d4a2ae2ab9b5d5895ed04d1a7cf270",
+      "size": 2170,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ff9c30a149d4a2ae2ab9b5d5895ed04d1a7cf270"
+    },
+    {
+      "path": "Assets/__Project/Textures/Title.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1eb0a6463fc82b55c9b2151e446d550863c539c1",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/1eb0a6463fc82b55c9b2151e446d550863c539c1"
+    },
+    {
+      "path": "Assets/__Project/Textures/Title",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "19d8b085e4cf53b42e0e80182dc20bec096f5867",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/19d8b085e4cf53b42e0e80182dc20bec096f5867"
+    },
+    {
+      "path": "Assets/__Project/Textures/Title/ClassroomTitle.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05e34b5289e4e2fea1e82131d631a8a4681b0053",
+      "size": 32458,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/05e34b5289e4e2fea1e82131d631a8a4681b0053"
+    },
+    {
+      "path": "Assets/__Project/Textures/Title/ClassroomTitle.png.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aaea5a6cbe4a637bd30a4913a1064168d085a782",
+      "size": 2860,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/aaea5a6cbe4a637bd30a4913a1064168d085a782"
+    },
+    {
+      "path": "Assets/__Project/_Scenes.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80954e0bbfe490116cfd77b936ab826e29ccbbdb",
+      "size": 172,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/80954e0bbfe490116cfd77b936ab826e29ccbbdb"
+    },
+    {
+      "path": "Assets/__Project/_Scenes",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a16fd52cbe84a24f3adcabf7ddfe38ee68eab64a",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/a16fd52cbe84a24f3adcabf7ddfe38ee68eab64a"
+    },
+    {
+      "path": "Assets/__Project/_Scenes/ClassroomDynamic.unity",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35762ed8d319dd895f8f7e18db2e24dff122be50",
+      "size": 342946,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/35762ed8d319dd895f8f7e18db2e24dff122be50"
+    },
+    {
+      "path": "Assets/__Project/_Scenes/ClassroomDynamic.unity.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b22e721d500af8a9641209851266e052c5b48ece",
+      "size": 155,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b22e721d500af8a9641209851266e052c5b48ece"
+    },
+    {
+      "path": "Assets/__Project/_Scenes/ClassroomStatic.unity",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db86d132bc4d977e79202e2f0d77436e4f9a5c86",
+      "size": 288722,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/db86d132bc4d977e79202e2f0d77436e4f9a5c86"
+    },
+    {
+      "path": "Assets/__Project/_Scenes/ClassroomStatic.unity.meta",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0adc592a64127bcd1f15e648ad5171a3b2aea0b7",
+      "size": 155,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/0adc592a64127bcd1f15e648ad5171a3b2aea0b7"
+    },
+    {
+      "path": "HDRPClassroom.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d14e8ea1e6d5b45b465f9e5829839039bc602406",
+      "size": 1890483,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/d14e8ea1e6d5b45b465f9e5829839039bc602406"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fdddb29aa445bf3d6a5d843d6dd77e10a9f99657",
+      "size": 1211,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/fdddb29aa445bf3d6a5d843d6dd77e10a9f99657"
+    },
+    {
+      "path": "Packages",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "025da72771fc03296e652d553a414128c091a7f0",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/025da72771fc03296e652d553a414128c091a7f0"
+    },
+    {
+      "path": "Packages/manifest.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14c38e595e34b3f8ad026c3471f49fab238b27dd",
+      "size": 1951,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/14c38e595e34b3f8ad026c3471f49fab238b27dd"
+    },
+    {
+      "path": "Packages/packages-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef777846558dfe62982b15e48db560be2b9a82b1",
+      "size": 13252,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ef777846558dfe62982b15e48db560be2b9a82b1"
+    },
+    {
+      "path": "ProjectSettings",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "44346072bed273732396f5f54f4211139c7df1c1",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/44346072bed273732396f5f54f4211139c7df1c1"
+    },
+    {
+      "path": "ProjectSettings/AudioManager.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27287fec5f4e4b712cbdd5b3a6383cbfd900b940",
+      "size": 413,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/27287fec5f4e4b712cbdd5b3a6383cbfd900b940"
+    },
+    {
+      "path": "ProjectSettings/ClusterInputManager.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7886b266a005f4d9d80f2fef8d1649dcfd3ed2b",
+      "size": 114,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/e7886b266a005f4d9d80f2fef8d1649dcfd3ed2b"
+    },
+    {
+      "path": "ProjectSettings/DynamicsManager.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "abb382fcbb6818cbc77257f82edcc5d8093a3314",
+      "size": 1323,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/abb382fcbb6818cbc77257f82edcc5d8093a3314"
+    },
+    {
+      "path": "ProjectSettings/EditorBuildSettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a163e622f0f0e70740478d0f9720e4bed4356b11",
+      "size": 252,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/a163e622f0f0e70740478d0f9720e4bed4356b11"
+    },
+    {
+      "path": "ProjectSettings/EditorSettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39a108db4b1946e4c009217eb17a863a92792a75",
+      "size": 1250,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/39a108db4b1946e4c009217eb17a863a92792a75"
+    },
+    {
+      "path": "ProjectSettings/GraphicsSettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbff70436f7539cf0da0597a72c83daac281a761",
+      "size": 2572,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/bbff70436f7539cf0da0597a72c83daac281a761"
+    },
+    {
+      "path": "ProjectSettings/HDRPProjectSettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31099c8812a3f033d139f9cfe875ddfd6082c46f",
+      "size": 697,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/31099c8812a3f033d139f9cfe875ddfd6082c46f"
+    },
+    {
+      "path": "ProjectSettings/InputManager.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b16147e954fd861c2e2db769449894d310aa7b26",
+      "size": 9731,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b16147e954fd861c2e2db769449894d310aa7b26"
+    },
+    {
+      "path": "ProjectSettings/MemorySettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b5facecace9276319b6e497953ab0429de65b61",
+      "size": 1192,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/5b5facecace9276319b6e497953ab0429de65b61"
+    },
+    {
+      "path": "ProjectSettings/NavMeshAreas.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b0b7c3d183abdd300112f56965916ef11667f54",
+      "size": 1308,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/3b0b7c3d183abdd300112f56965916ef11667f54"
+    },
+    {
+      "path": "ProjectSettings/PackageManagerSettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "540aabbe2560df5a4b815b6bda3127edb281aa49",
+      "size": 928,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/540aabbe2560df5a4b815b6bda3127edb281aa49"
+    },
+    {
+      "path": "ProjectSettings/Packages",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6bab15dc16c9b0f51b283da5280b98d6d70804d3",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/6bab15dc16c9b0f51b283da5280b98d6d70804d3"
+    },
+    {
+      "path": "ProjectSettings/Packages/com.unity.testtools.codecoverage",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2baea31a808a4ed4d1c95c22664a682833943c3f",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/2baea31a808a4ed4d1c95c22664a682833943c3f"
+    },
+    {
+      "path": "ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad11087f426eeaade4da01979b708da9401c68b5",
+      "size": 179,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/ad11087f426eeaade4da01979b708da9401c68b5"
+    },
+    {
+      "path": "ProjectSettings/Physics2DSettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6c5cf8a004ac48f27cb36f7cdea139eb4d3e812f",
+      "size": 2028,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/6c5cf8a004ac48f27cb36f7cdea139eb4d3e812f"
+    },
+    {
+      "path": "ProjectSettings/PresetManager.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67a94daefe2e6bce3ec73546ad7cda94f702ad22",
+      "size": 146,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/67a94daefe2e6bce3ec73546ad7cda94f702ad22"
+    },
+    {
+      "path": "ProjectSettings/ProjectSettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d67a226aeaa41cc9fe2183505f418ac9b459aeb0",
+      "size": 23889,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/d67a226aeaa41cc9fe2183505f418ac9b459aeb0"
+    },
+    {
+      "path": "ProjectSettings/ProjectVersion.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3384268ebddb437465655054f97b53bfe32f026b",
+      "size": 83,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/3384268ebddb437465655054f97b53bfe32f026b"
+    },
+    {
+      "path": "ProjectSettings/QualitySettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0993c8abe38ce2f666fbebce897c6af912cc4093",
+      "size": 3741,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/0993c8abe38ce2f666fbebce897c6af912cc4093"
+    },
+    {
+      "path": "ProjectSettings/RiderScriptEditorPersistedState.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a559f7ce3b7fc7d6886745a67d698e7b706a720",
+      "size": 438,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/8a559f7ce3b7fc7d6886745a67d698e7b706a720"
+    },
+    {
+      "path": "ProjectSettings/SceneTemplateSettings.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f3e60fd8b7178b90a74640de7a6006d7a2b6565",
+      "size": 5157,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/6f3e60fd8b7178b90a74640de7a6006d7a2b6565"
+    },
+    {
+      "path": "ProjectSettings/ShaderGraphSettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b28428b92bc7af0089036534e8c7567664fbe28",
+      "size": 463,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/9b28428b92bc7af0089036534e8c7567664fbe28"
+    },
+    {
+      "path": "ProjectSettings/TagManager.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c92a7840ec11895c76785f65d949a3d20d53355",
+      "size": 378,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/1c92a7840ec11895c76785f65d949a3d20d53355"
+    },
+    {
+      "path": "ProjectSettings/TimeManager.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "558a017e1f50b2db73414a1abad3c033922774f8",
+      "size": 202,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/558a017e1f50b2db73414a1abad3c033922774f8"
+    },
+    {
+      "path": "ProjectSettings/TimelineSettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cfaebd7a3ad4fbc31dbaf44d03b608d430a973dc",
+      "size": 436,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/cfaebd7a3ad4fbc31dbaf44d03b608d430a973dc"
+    },
+    {
+      "path": "ProjectSettings/UnityConnectSettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6125b308af4d7e7649a33ce7facf541ff7e3ec47",
+      "size": 901,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/6125b308af4d7e7649a33ce7facf541ff7e3ec47"
+    },
+    {
+      "path": "ProjectSettings/VFXManager.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b004c5edb0e9f98d5bbeaabae2b38477cda7db8f",
+      "size": 664,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/b004c5edb0e9f98d5bbeaabae2b38477cda7db8f"
+    },
+    {
+      "path": "ProjectSettings/VersionControlSettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dca288142fc043d5a749e9058fe625505008834f",
+      "size": 188,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/dca288142fc043d5a749e9058fe625505008834f"
+    },
+    {
+      "path": "ProjectSettings/XRSettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "482590c196f7a82116679f58176b9d1aff21d7f9",
+      "size": 158,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/482590c196f7a82116679f58176b9d1aff21d7f9"
+    },
+    {
+      "path": "ProjectSettings/boot.config",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a47a549a18318a384f19257e4d41f69d0855aac3",
+      "size": 3910,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/a47a549a18318a384f19257e4d41f69d0855aac3"
+    },
+    {
+      "path": "UserSettings",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3dea1c95eb89c345d04e5615238f4d1e7744b947",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/3dea1c95eb89c345d04e5615238f4d1e7744b947"
+    },
+    {
+      "path": "UserSettings/EditorUserSettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87264dfc25d1ba8adf6c0a5ba1e9871dcd05f0a6",
+      "size": 989,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/87264dfc25d1ba8adf6c0a5ba1e9871dcd05f0a6"
+    },
+    {
+      "path": "UserSettings/HDRPUserSettings.asset",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "857800570ba745f396e21f2bdcb11f2c4c15f69f",
+      "size": 536,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/857800570ba745f396e21f2bdcb11f2c4c15f69f"
+    },
+    {
+      "path": "UserSettings/Layouts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6a40508e71ee9936e812d91812fda8170f9b03a2",
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/trees/6a40508e71ee9936e812d91812fda8170f9b03a2"
+    },
+    {
+      "path": "UserSettings/Layouts/default-2021.dwlt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a1fd1a13f04fe5083d99b87e2619197e6b5c38d",
+      "size": 40410,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/5a1fd1a13f04fe5083d99b87e2619197e6b5c38d"
+    },
+    {
+      "path": "UserSettings/Search.settings",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e26dfeeb6e641a33dae4961196235bdb965b21b",
+      "size": 2,
+      "url": "https://api.github.com/repos/lkewis/HDRP-Classroom/git/blobs/9e26dfeeb6e641a33dae4961196235bdb965b21b"
+    }
+  ],
+  "truncated": false
+}

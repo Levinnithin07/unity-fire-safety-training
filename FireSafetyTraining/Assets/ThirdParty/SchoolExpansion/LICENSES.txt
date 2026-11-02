@@ -1,0 +1,3 @@
+Poly Haven models: CC0. https://polyhaven.com/license
+Quaternius Animated Characters Pack: CC0; publisher upload at https://opengameart.org/content/animated-characters-pack
+Source assets are third-party works. Project integration and alterations documented separately.

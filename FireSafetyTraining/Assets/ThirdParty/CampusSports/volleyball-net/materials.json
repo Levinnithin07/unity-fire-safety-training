@@ -1,0 +1,54 @@
+[
+  {
+    "name": "steel",
+    "texture": "material-0.png",
+    "color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "metallic": 0.800000011920929,
+    "smoothness": 0.699999988079071,
+    "glass": false
+  },
+  {
+    "name": "white",
+    "texture": "material-1.png",
+    "color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "metallic": 0.11999999731779099,
+    "smoothness": 0.699999988079071,
+    "glass": false
+  },
+  {
+    "name": "aluminum",
+    "texture": "material-2.png",
+    "color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "metallic": 0.8500000238418579,
+    "smoothness": 0.760000005364418,
+    "glass": false
+  },
+  {
+    "name": "black",
+    "texture": "material-3.png",
+    "color": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "metallic": 0.18000000715255737,
+    "smoothness": 0.5800000131130219,
+    "glass": false
+  }
+]

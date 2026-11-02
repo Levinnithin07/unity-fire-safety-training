@@ -1,0 +1,51 @@
+[
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/quiver_tree_01/quiver_tree_01_1k.fbx",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\quiver_tree_01\\quiver_tree_01.fbx",
+    "bytes": 4859020,
+    "sha256": "3b8bde5375119627937ed135e5bc82efb1d2f4385b12c584c1e379d82cb2467f",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_nor_gl_1k.png",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\quiver_tree_01\\textures\\quiver_tree_01_trunk_nor_gl_1k.png",
+    "bytes": 5132583,
+    "sha256": "f72f425b878a6d31290d2933ea3b87b7f96962d73c6f84ed1234cf24188d1a75",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_diff_1k.png",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\quiver_tree_01\\textures\\quiver_tree_01_leaf_diff_1k.png",
+    "bytes": 5040209,
+    "sha256": "754c6ff9e543f0c88373de5b014d0d92e50a2c66dd362b72be4ce82526ab461d",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_rough_1k.png",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\quiver_tree_01\\textures\\quiver_tree_01_leaf_rough_1k.png",
+    "bytes": 1705008,
+    "sha256": "0ad2df7f54df334216b1efe45877d0e76e944e43d04aa62dbee453546cb1ba46",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_diff_1k.png",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\quiver_tree_01\\textures\\quiver_tree_01_trunk_diff_1k.png",
+    "bytes": 4940265,
+    "sha256": "e75c279538c4483084733ba2a24fc2b0ad2f27459f9403ae6f4e98fe6c8461fb",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_leaf_nor_gl_1k.png",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\quiver_tree_01\\textures\\quiver_tree_01_leaf_nor_gl_1k.png",
+    "bytes": 5241285,
+    "sha256": "48fbe240ac1787dde481962994c81723b874ee600a883947091e058ce453c2c7",
+    "license": "CC0"
+  },
+  {
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/quiver_tree_01/quiver_tree_01_trunk_rough_1k.png",
+    "path": "FireSafetyTraining\\Assets\\ThirdParty\\SchoolExpansion\\quiver_tree_01\\textures\\quiver_tree_01_trunk_rough_1k.png",
+    "bytes": 1547547,
+    "sha256": "40a99b68d81ee842e8df59c7a996d3d24853397deefea8dfae1d60c516e34c25",
+    "license": "CC0"
+  }
+]

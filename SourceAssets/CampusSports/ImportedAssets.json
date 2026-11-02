@@ -1,0 +1,44 @@
+[
+  {
+    "name": "basketball-hoop",
+    "creator": "Innerscene",
+    "license": "CC0-1.0",
+    "source": "https://www.innerscene.com/tools/library/3d-parts/wall-basketball-hoop-sports-equipment-7cfb56b9",
+    "download": "https://www.innerscene.com/api/library/wall-basketball-hoop-sports-equipment-7cfb56b9/download",
+    "sha256": "1cb10a463c5c4620e2d7ea965b1be902a00b9a538a84aaa89a9daea05775382e",
+    "bytes": 299964,
+    "triangles": 6592,
+    "min": [
+      -0.8999999761581421,
+      2.628000020980835,
+      -0.6330000162124634
+    ],
+    "max": [
+      0.8999999761581421,
+      3.950000047683716,
+      1.1699999757111073
+    ],
+    "changes": "Coordinates converted for Unity; material groups merged; transparent transmission mapped to URP glass. Source GLB retained."
+  },
+  {
+    "name": "volleyball-net",
+    "creator": "Innerscene",
+    "license": "CC0-1.0",
+    "source": "https://www.innerscene.com/tools/library/3d-parts/volleyball-net-sports-equipment-3ddaf116",
+    "download": "https://www.innerscene.com/api/library/volleyball-net-sports-equipment-3ddaf116/download",
+    "sha256": "bf5dfc0de1243ce2616585f39a24c7234e4efdedec67645e98fda0d88f5c7fa6",
+    "bytes": 273012,
+    "triangles": 3812,
+    "min": [
+      -5.545000001788139,
+      0.0,
+      -0.10999999940395355
+    ],
+    "max": [
+      5.545000001788139,
+      2.549999952316284,
+      0.04399999976158142
+    ],
+    "changes": "Coordinates converted for Unity; material groups merged; transparent transmission mapped to URP glass. Source GLB retained."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "lod": 0,
+    "submesh": 0,
+    "original": 94814,
+    "reduced": 12000
+  },
+  {
+    "lod": 0,
+    "submesh": 1,
+    "original": 1939380,
+    "reduced": 272346
+  },
+  {
+    "lod": 0,
+    "submesh": 2,
+    "original": 28293,
+    "reduced": 7999
+  },
+  {
+    "lod": 1,
+    "submesh": 0,
+    "original": 94814,
+    "reduced": 8619
+  },
+  {
+    "lod": 1,
+    "submesh": 1,
+    "original": 1939380,
+    "reduced": 272346
+  },
+  {
+    "lod": 1,
+    "submesh": 2,
+    "original": 28293,
+    "reduced": 2500
+  }
+]

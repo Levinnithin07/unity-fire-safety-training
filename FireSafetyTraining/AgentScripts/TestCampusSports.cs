@@ -1,0 +1,1 @@
+using System.Threading.Tasks; public static class TestCampusSports { public static async Task<string> Run(){ UnityEngine.Application.runInBackground=true; await FireSafety.CampusSportsChecks.Run(System.IO.Path.GetFullPath("../Documentation/CampusSportsScreenshots"));return "Campus placements verified"; } }
